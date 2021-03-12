@@ -1,7 +1,7 @@
 id,value
 Stock,NA
 Stock|Basic Industries,NA
-Stock|Basic Industries|Agricultural Chemicals|,NA
+Stock|Basic Industries|Agricultural Chemicals,NA
 Stock|Basic Industries|Agricultural Chemicals|AgroFresh Solutions Inc. Common Stock(AGFS),AGFS
 Stock|Basic Industries|Agricultural Chemicals|American Vanguard Corporation Common Stock ($0.10 Par Value)(AVD),AVD
 Stock|Basic Industries|Agricultural Chemicals|Bioceres Crop Solutions Corp. Ordinary Shares(BIOX),BIOX
@@ -16,16 +16,16 @@ Stock|Basic Industries|Agricultural Chemicals|Mosaic Company (The) Common Stock(
 Stock|Basic Industries|Agricultural Chemicals|Nutrien Ltd. Common Shares(NTR),NTR
 Stock|Basic Industries|Agricultural Chemicals|Scotts Miracle-Gro Company (The) Common Stock(SMG),SMG
 Stock|Basic Industries|Agricultural Chemicals|SenesTech Inc. Common Stock(SNES),SNES
-Stock|Basic Industries|Aluminum|,NA
+Stock|Basic Industries|Aluminum,NA
 Stock|Basic Industries|Aluminum|Alcoa Corporation Common Stock(AA),AA
 Stock|Basic Industries|Aluminum|Aluminum Corporation of China Limited American Depositary Shares(ACH),ACH
 Stock|Basic Industries|Aluminum|Century Aluminum Company Common Stock(CENX),CENX
-Stock|Basic Industries|Containers/Packaging|,NA
+Stock|Basic Industries|Containers/Packaging,NA
 Stock|Basic Industries|Containers/Packaging|Yield10 Bioscience Inc. Common Stock(YTEN),YTEN
-Stock|Basic Industries|Electric Utilities: Central|,NA
+Stock|Basic Industries|Electric Utilities: Central,NA
 Stock|Basic Industries|Electric Utilities: Central|Covanta Holding Corporation Common Stock(CVA),CVA
 Stock|Basic Industries|Electric Utilities: Central|The AES Corporation Common Stock(AES),AES
-Stock|Basic Industries|Engineering & Construction|,NA
+Stock|Basic Industries|Engineering & Construction,NA
 Stock|Basic Industries|Engineering & Construction|APi Group Corporation Common Stock(APG),APG
 Stock|Basic Industries|Engineering & Construction|Alberton Acquisition Corporation Ordinary Shares(ALAC),ALAC
 Stock|Basic Industries|Engineering & Construction|Alberton Acquisition Corporation Rights exp April 26 2021(ALACR),ALACR
@@ -38,13 +38,13 @@ Stock|Basic Industries|Engineering & Construction|Concrete Pumping Holdings Inc.
 Stock|Basic Industries|Engineering & Construction|Limbach Holdings Inc. Common Stock(LMB),LMB
 Stock|Basic Industries|Engineering & Construction|Matrix Service Company Common Stock(MTRX),MTRX
 Stock|Basic Industries|Engineering & Construction|TopBuild Corp. Common Stock(BLD),BLD
-Stock|Basic Industries|Environmental Services|,NA
+Stock|Basic Industries|Environmental Services,NA
 Stock|Basic Industries|Environmental Services|Charah Solutions Inc. Common Stock(CHRA),CHRA
 Stock|Basic Industries|Environmental Services|Clean Harbors Inc. Common Stock(CLH),CLH
 Stock|Basic Industries|Environmental Services|Perma-Fix Environmental Services Inc. Common Stock(PESI),PESI
 Stock|Basic Industries|Environmental Services|Sharps Compliance Corp. Common Stock(SMED),SMED
 Stock|Basic Industries|Environmental Services|Stericycle Inc. Common Stock(SRCL),SRCL
-Stock|Basic Industries|Forest Products|,NA
+Stock|Basic Industries|Forest Products,NA
 Stock|Basic Industries|Forest Products|American Woodmark Corporation Common Stock(AMWD),AMWD
 Stock|Basic Industries|Forest Products|Enviva Partners LP Common units representing limited partner interests(EVA),EVA
 Stock|Basic Industries|Forest Products|Fortune Brands Home & Security Inc. Common Stock(FBHS),FBHS
@@ -55,12 +55,12 @@ Stock|Basic Industries|Forest Products|Masonite International Corporation Ordina
 Stock|Basic Industries|Forest Products|Trex Company Inc. Common Stock(TREX),TREX
 Stock|Basic Industries|Forest Products|UFP Industries Inc. Common Stock(UFPI),UFPI
 Stock|Basic Industries|Forest Products|West Fraser Timber Co. Ltd Common stock(WFG),WFG
-Stock|Basic Industries|General Bldg Contractors - Nonresidential Bldgs|,NA
+Stock|Basic Industries|General Bldg Contractors - Nonresidential Bldgs,NA
 Stock|Basic Industries|General Bldg Contractors - Nonresidential Bldgs|Tutor Perini Corporation Common Stock(TPC),TPC
-Stock|Basic Industries|Home Furnishings|,NA
+Stock|Basic Industries|Home Furnishings,NA
 Stock|Basic Industries|Home Furnishings|CSW Industrials Inc. Common Stock(CSWI),CSWI
 Stock|Basic Industries|Home Furnishings|H. B. Fuller Company Common Stock(FUL),FUL
-Stock|Basic Industries|Homebuilding|,NA
+Stock|Basic Industries|Homebuilding,NA
 Stock|Basic Industries|Homebuilding|Cavco Industries Inc. Common Stock When Issued(CVCO),CVCO
 Stock|Basic Industries|Homebuilding|Installed Building Products Inc. Common Stock(IBP),IBP
 Stock|Basic Industries|Homebuilding|Legacy Housing Corporation Common Stock (TX)(LEGH),LEGH
@@ -68,7 +68,7 @@ Stock|Basic Industries|Homebuilding|Lennar Corporation Class A Common Stock(LEN)
 Stock|Basic Industries|Homebuilding|Select Interior Concepts Inc. Class A Common Stock(SIC),SIC
 Stock|Basic Industries|Homebuilding|Skyline Champion Corporation Common Stock(SKY),SKY
 Stock|Basic Industries|Homebuilding|Xinyuan Real Estate Co Ltd American Depositary Shares(XIN),XIN
-Stock|Basic Industries|Major Chemicals|,NA
+Stock|Basic Industries|Major Chemicals,NA
 Stock|Basic Industries|Major Chemicals|AdvanSix Inc. Common Stock(ASIX),ASIX
 Stock|Basic Industries|Major Chemicals|Advanced Emissions Solutions Inc. Common Stock(ADES),ADES
 Stock|Basic Industries|Major Chemicals|Aemetis Inc. Common Stock(AMTX),AMTX
@@ -142,7 +142,7 @@ Stock|Basic Industries|Major Chemicals|W.R. Grace & Co. Common Stock(GRA),GRA
 Stock|Basic Industries|Major Chemicals|WD-40 Company Common Stock(WDFC),WDFC
 Stock|Basic Industries|Major Chemicals|Westlake Chemical Corporation Common Stock(WLK),WLK
 Stock|Basic Industries|Major Chemicals|Westlake Chemical Partners LP Common Units representing limited partner interests(WLKP),WLKP
-Stock|Basic Industries|Metal Fabrications|,NA
+Stock|Basic Industries|Metal Fabrications,NA
 Stock|Basic Industries|Metal Fabrications|Aqua Metals Inc. Common Stock(AQMS),AQMS
 Stock|Basic Industries|Metal Fabrications|Constellium SE Ordinary Shares (France)(CSTM),CSTM
 Stock|Basic Industries|Metal Fabrications|EnPro Industries Inc(NPO),NPO
@@ -150,7 +150,7 @@ Stock|Basic Industries|Metal Fabrications|L.B. Foster Company Common Stock(FSTR)
 Stock|Basic Industries|Metal Fabrications|Olympic Steel Inc. Common Stock(ZEUS),ZEUS
 Stock|Basic Industries|Metal Fabrications|Reliance Steel & Aluminum Co. Common Stock (DE)(RS),RS
 Stock|Basic Industries|Metal Fabrications|Ryerson Holding Corporation Common Stock(RYI),RYI
-Stock|Basic Industries|Military/Government/Technical|,NA
+Stock|Basic Industries|Military/Government/Technical,NA
 Stock|Basic Industries|Military/Government/Technical|Aenza S.A.A. American Depositary Shares(AENZ),AENZ
 Stock|Basic Industries|Military/Government/Technical|Construction Partners Inc. Class A Common Stock(ROAD),ROAD
 Stock|Basic Industries|Military/Government/Technical|Fluor Corporation Common Stock(FLR),FLR
@@ -160,7 +160,7 @@ Stock|Basic Industries|Military/Government/Technical|Jacobs Engineering Group In
 Stock|Basic Industries|Military/Government/Technical|KBR Inc. Common Stock(KBR),KBR
 Stock|Basic Industries|Military/Government/Technical|Orion Group Holdings Inc. Common(ORN),ORN
 Stock|Basic Industries|Military/Government/Technical|Sterling Construction Company Inc Common Stock(STRL),STRL
-Stock|Basic Industries|Mining & Quarrying of Nonmetallic Minerals (No Fuels)|,NA
+Stock|Basic Industries|Mining & Quarrying of Nonmetallic Minerals (No Fuels),NA
 Stock|Basic Industries|Mining & Quarrying of Nonmetallic Minerals (No Fuels)|Centrus Energy Corp. Class A Common Stock(LEU),LEU
 Stock|Basic Industries|Mining & Quarrying of Nonmetallic Minerals (No Fuels)|Ciner Resources LP Common Units representing Limited Partner Interests(CINR),CINR
 Stock|Basic Industries|Mining & Quarrying of Nonmetallic Minerals (No Fuels)|Compass Minerals Intl Inc Common Stock(CMP),CMP
@@ -179,24 +179,24 @@ Stock|Basic Industries|Mining & Quarrying of Nonmetallic Minerals (No Fuels)|Tec
 Stock|Basic Industries|Mining & Quarrying of Nonmetallic Minerals (No Fuels)|U.S. Silica Holdings Inc. Common Stock(SLCA),SLCA
 Stock|Basic Industries|Mining & Quarrying of Nonmetallic Minerals (No Fuels)|United States Lime & Minerals Inc. Common Stock(USLM),USLM
 Stock|Basic Industries|Mining & Quarrying of Nonmetallic Minerals (No Fuels)|Vulcan Materials Company (Holding Company) Common Stock(VMC),VMC
-Stock|Basic Industries|Miscellaneous|,NA
+Stock|Basic Industries|Miscellaneous,NA
 Stock|Basic Industries|Miscellaneous|Heritage-Crystal Clean Inc. Common Stock(HCCI),HCCI
 Stock|Basic Industries|Miscellaneous|Newater Technology Inc. Ordinary Shares(NEWA),NEWA
-Stock|Basic Industries|Other Specialty Stores|,NA
+Stock|Basic Industries|Other Specialty Stores,NA
 Stock|Basic Industries|Other Specialty Stores|A-Mark Precious Metals Inc. Common Stock(AMRK),AMRK
-Stock|Basic Industries|Package Goods/Cosmetics|,NA
+Stock|Basic Industries|Package Goods/Cosmetics,NA
 Stock|Basic Industries|Package Goods/Cosmetics|Church & Dwight Company Inc. Common Stock(CHD),CHD
 Stock|Basic Industries|Package Goods/Cosmetics|Conversion Labs Inc. Common Stock(CVLB),CVLB
 Stock|Basic Industries|Package Goods/Cosmetics|Ecolab Inc. Common Stock(ECL),ECL
 Stock|Basic Industries|Package Goods/Cosmetics|Procter & Gamble Company (The) Common Stock(PG),PG
 Stock|Basic Industries|Package Goods/Cosmetics|Stepan Company Common Stock(SCL),SCL
 Stock|Basic Industries|Package Goods/Cosmetics|Unilever PLC Common Stock(UL),UL
-Stock|Basic Industries|Paints/Coatings|,NA
+Stock|Basic Industries|Paints/Coatings,NA
 Stock|Basic Industries|Paints/Coatings|Axalta Coating Systems Ltd. Common Shares(AXTA),AXTA
 Stock|Basic Industries|Paints/Coatings|Ferro Corporation Common Stock(FOE),FOE
 Stock|Basic Industries|Paints/Coatings|PPG Industries Inc. Common Stock(PPG),PPG
 Stock|Basic Industries|Paints/Coatings|RPM International Inc. Common Stock(RPM),RPM
-Stock|Basic Industries|Paper|,NA
+Stock|Basic Industries|Paper,NA
 Stock|Basic Industries|Paper|Clearwater Paper Corporation Common Stock(CLW),CLW
 Stock|Basic Industries|Paper|Domtar Corporation (NEW) Common Stock(UFS),UFS
 Stock|Basic Industries|Paper|Glatfelter Corporation Common Stock(GLT),GLT
@@ -208,7 +208,7 @@ Stock|Basic Industries|Paper|Resolute Forest Products Inc. Common Stock(RFP),RFP
 Stock|Basic Industries|Paper|Schweitzer-Mauduit International Inc. Common Stock(SWM),SWM
 Stock|Basic Industries|Paper|Suzano S.A. American Depositary Shares (each representing One Ordinary Share)(SUZ),SUZ
 Stock|Basic Industries|Paper|Verso Corporation Common Stock(VRS),VRS
-Stock|Basic Industries|Precious Metals|,NA
+Stock|Basic Industries|Precious Metals,NA
 Stock|Basic Industries|Precious Metals|Agnico Eagle Mines Limited Common Stock(AEM),AEM
 Stock|Basic Industries|Precious Metals|Alamos Gold Inc. Class A Common Shares(AGI),AGI
 Stock|Basic Industries|Precious Metals|Alexco Resource Corp Common Shares (Canada)(AXU),AXU
@@ -302,11 +302,11 @@ Stock|Basic Industries|Precious Metals|Western Copper and Gold Corporation Commo
 Stock|Basic Industries|Precious Metals|Westwater Resources Inc. Common Stock(WWR),WWR
 Stock|Basic Industries|Precious Metals|Wheaton Precious Metals Corp Common Shares (Canada)(WPM),WPM
 Stock|Basic Industries|Precious Metals|Yamana Gold Inc. Ordinary Shares (Canada)(AUY),AUY
-Stock|Basic Industries|Specialty Chemicals|,NA
+Stock|Basic Industries|Specialty Chemicals,NA
 Stock|Basic Industries|Specialty Chemicals|Carlisle Companies Incorporated Common Stock(CSL),CSL
 Stock|Basic Industries|Specialty Chemicals|West Pharmaceutical Services Inc. Common Stock(WST),WST
 Stock|Basic Industries|Specialty Chemicals|Yunhong CTI Ltd. Common Stock(CTIB),CTIB
-Stock|Basic Industries|Steel/Iron Ore|,NA
+Stock|Basic Industries|Steel/Iron Ore,NA
 Stock|Basic Industries|Steel/Iron Ore|Allegheny Technologies Incorporated Common Stock(ATI),ATI
 Stock|Basic Industries|Steel/Iron Ore|Arcelor Mittal NY Registry Shares NEW(MT),MT
 Stock|Basic Industries|Steel/Iron Ore|ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023(MTCN),MTCN
@@ -328,16 +328,16 @@ Stock|Basic Industries|Steel/Iron Ore|TimkenSteel Corporation Common Shares(TMST
 Stock|Basic Industries|Steel/Iron Ore|Titan International Inc. (DE) Common Stock(TWI),TWI
 Stock|Basic Industries|Steel/Iron Ore|United States Steel Corporation Common Stock(X),X
 Stock|Basic Industries|Steel/Iron Ore|Universal Stainless & Alloy Products Inc. Common Stock(USAP),USAP
-Stock|Basic Industries|Telecommunications Equipment|,NA
+Stock|Basic Industries|Telecommunications Equipment,NA
 Stock|Basic Industries|Telecommunications Equipment|Asia Pacific Wire & Cable Corporation Ltd. Ordinary Shares (Bermuda)(APWC),APWC
 Stock|Basic Industries|Telecommunications Equipment|Belden Inc Common Stock(BDC),BDC
 Stock|Basic Industries|Telecommunications Equipment|Corning Incorporated Common Stock(GLW),GLW
 Stock|Basic Industries|Telecommunications Equipment|Optical Cable Corporation Common Stock(OCC),OCC
-Stock|Basic Industries|Textiles|,NA
+Stock|Basic Industries|Textiles,NA
 Stock|Basic Industries|Textiles|Albany International Corporation Common Stock(AIN),AIN
 Stock|Basic Industries|Textiles|Crown Crafts Inc Common Stock(CRWS),CRWS
 Stock|Basic Industries|Textiles|Culp Inc. Common Stock(CULP),CULP
-Stock|Basic Industries|Water Supply|,NA
+Stock|Basic Industries|Water Supply,NA
 Stock|Basic Industries|Water Supply|Aegion Corp Common Stock(AEGN),AEGN
 Stock|Basic Industries|Water Supply|Dycom Industries Inc. Common Stock(DY),DY
 Stock|Basic Industries|Water Supply|MYR Group Inc. Common Stock(MYRG),MYRG
@@ -345,7 +345,7 @@ Stock|Basic Industries|Water Supply|MasTec Inc. Common Stock(MTZ),MTZ
 Stock|Basic Industries|Water Supply|Preformed Line Products Company Common Stock(PLPC),PLPC
 Stock|Basic Industries|Water Supply|Primoris Services Corporation Common Stock(PRIM),PRIM
 Stock|Capital Goods,NA
-Stock|Capital Goods|Aerospace|,NA
+Stock|Capital Goods|Aerospace,NA
 Stock|Capital Goods|Aerospace|AAR Corp. Common Stock(AIR),AIR
 Stock|Capital Goods|Aerospace|AeroVironment Inc. Common Stock(AVAV),AVAV
 Stock|Capital Goods|Aerospace|AgEagle Aerial Systems Inc. Common Stock(UAVS),UAVS
@@ -358,7 +358,7 @@ Stock|Capital Goods|Aerospace|SIFCO Industries Inc. Common Stock(SIF),SIF
 Stock|Capital Goods|Aerospace|TAT Technologies Ltd. Ordinary Shares(TATT),TATT
 Stock|Capital Goods|Aerospace|Textron Inc. Common Stock(TXT),TXT
 Stock|Capital Goods|Aerospace|Triumph Group Inc. Common Stock(TGI),TGI
-Stock|Capital Goods|Auto Manufacturing|,NA
+Stock|Capital Goods|Auto Manufacturing,NA
 Stock|Capital Goods|Auto Manufacturing|ArcLight Clean Transition Corp. Class A Ordinary Shares(ACTC),ACTC
 Stock|Capital Goods|Auto Manufacturing|ArcLight Clean Transition Corp. Unit(ACTCU),ACTCU
 Stock|Capital Goods|Auto Manufacturing|ArcLight Clean Transition Corp. Warrant(ACTCW),ACTCW
@@ -392,7 +392,7 @@ Stock|Capital Goods|Auto Manufacturing|The Shyft Group Inc. Common Stock(SHYF),S
 Stock|Capital Goods|Auto Manufacturing|Toyota Motor Corporation Common Stock(TM),TM
 Stock|Capital Goods|Auto Manufacturing|Workhorse Group Inc. Common Stock(WKHS),WKHS
 Stock|Capital Goods|Auto Manufacturing|XPeng Inc. American depositary shares each representing two Class A ordinary shares(XPEV),XPEV
-Stock|Capital Goods|Auto Parts:O.E.M.|,NA
+Stock|Capital Goods|Auto Parts:O.E.M.,NA
 Stock|Capital Goods|Auto Parts:O.E.M.|Adient plc Ordinary Shares(ADNT),ADNT
 Stock|Capital Goods|Auto Parts:O.E.M.|Allison Transmission Holdings Inc. Common Stock(ALSN),ALSN
 Stock|Capital Goods|Auto Parts:O.E.M.|American Axle & Manufacturing Holdings Inc. Common Stock(AXL),AXL
@@ -433,9 +433,9 @@ Stock|Capital Goods|Auto Parts:O.E.M.|Unique Fabricating Inc. Common Stock(UFAB)
 Stock|Capital Goods|Auto Parts:O.E.M.|Veoneer Inc. Common Stock(VNE),VNE
 Stock|Capital Goods|Auto Parts:O.E.M.|Visteon Corporation Common Stock(VC),VC
 Stock|Capital Goods|Auto Parts:O.E.M.|XL Fleet Corp. Class A Common Stock(XL),XL
-Stock|Capital Goods|Automotive Aftermarket|,NA
+Stock|Capital Goods|Automotive Aftermarket,NA
 Stock|Capital Goods|Automotive Aftermarket|Genuine Parts Company Common Stock(GPC),GPC
-Stock|Capital Goods|Biotechnology: Laboratory Analytical Instruments|,NA
+Stock|Capital Goods|Biotechnology: Laboratory Analytical Instruments,NA
 Stock|Capital Goods|Biotechnology: Laboratory Analytical Instruments|10x Genomics Inc. Class A Common Stock(TXG),TXG
 Stock|Capital Goods|Biotechnology: Laboratory Analytical Instruments|Accelerate Diagnostics Inc. Common Stock(AXDX),AXDX
 Stock|Capital Goods|Biotechnology: Laboratory Analytical Instruments|Agilent Technologies Inc. Common Stock(A),A
@@ -460,7 +460,7 @@ Stock|Capital Goods|Biotechnology: Laboratory Analytical Instruments|Quanterix C
 Stock|Capital Goods|Biotechnology: Laboratory Analytical Instruments|Seer Inc. Class A Common Stock(SEER),SEER
 Stock|Capital Goods|Biotechnology: Laboratory Analytical Instruments|Talis Biomedical Corporation Common Stock(TLIS),TLIS
 Stock|Capital Goods|Biotechnology: Laboratory Analytical Instruments|Waters Corporation Common Stock(WAT),WAT
-Stock|Capital Goods|Building Materials|,NA
+Stock|Capital Goods|Building Materials,NA
 Stock|Capital Goods|Building Materials|Antelope Enterprise Holdings Limited Common Stock (0.024 par)(AEHL),AEHL
 Stock|Capital Goods|Building Materials|CPS Technologies Corp. Common Stock(CPSH),CPSH
 Stock|Capital Goods|Building Materials|CRH PLC American Depositary Shares(CRH),CRH
@@ -473,12 +473,12 @@ Stock|Capital Goods|Building Materials|James Hardie Industries plc American Depo
 Stock|Capital Goods|Building Materials|Loma Negra Compania Industrial Argentina Sociedad Anonima ADS(LOMA),LOMA
 Stock|Capital Goods|Building Materials|Smith-Midland Corporation Common Stock(SMID),SMID
 Stock|Capital Goods|Building Materials|U.S. Concrete Inc. Common Stock(USCR),USCR
-Stock|Capital Goods|Building Products|,NA
+Stock|Capital Goods|Building Products,NA
 Stock|Capital Goods|Building Products|Babcock & Wilcox Enterprises Inc. 8.125% Senior Notes due 2026(BWSN),BWSN
 Stock|Capital Goods|Building Products|Babcock & Wilcox Enterprises Inc. Common Stock(BW),BW
 Stock|Capital Goods|Building Products|Griffon Corporation Common Stock(GFF),GFF
 Stock|Capital Goods|Building Products|PGT Innovations Inc.(PGTI),PGTI
-Stock|Capital Goods|Construction/Ag Equipment/Trucks|,NA
+Stock|Capital Goods|Construction/Ag Equipment/Trucks,NA
 Stock|Capital Goods|Construction/Ag Equipment/Trucks|Astec Industries Inc. Common Stock(ASTE),ASTE
 Stock|Capital Goods|Construction/Ag Equipment/Trucks|Blue Bird Corporation Common Stock(BLBD),BLBD
 Stock|Capital Goods|Construction/Ag Equipment/Trucks|CNH Industrial N.V. Common Shares(CNHI),CNHI
@@ -493,10 +493,10 @@ Stock|Capital Goods|Construction/Ag Equipment/Trucks|Manitowoc Company Inc. (The
 Stock|Capital Goods|Construction/Ag Equipment/Trucks|Miller Industries Inc. Common Stock(MLR),MLR
 Stock|Capital Goods|Construction/Ag Equipment/Trucks|Terex Corporation Common Stock(TEX),TEX
 Stock|Capital Goods|Construction/Ag Equipment/Trucks|Wabash National Corporation Common Stock(WNC),WNC
-Stock|Capital Goods|Containers/Packaging|,NA
+Stock|Capital Goods|Containers/Packaging,NA
 Stock|Capital Goods|Containers/Packaging|Advanced Drainage Systems Inc. Common Stock(WMS),WMS
 Stock|Capital Goods|Containers/Packaging|China XD Plastics Company Limited Common Stock(CXDC),CXDC
-Stock|Capital Goods|Electrical Products|,NA
+Stock|Capital Goods|Electrical Products,NA
 Stock|Capital Goods|Electrical Products|Aehr Test Systems Common Stock(AEHR),AEHR
 Stock|Capital Goods|Electrical Products|Allied Motion Technologies Inc.(AMOT),AMOT
 Stock|Capital Goods|Electrical Products|Amphenol Corporation Common Stock(APH),APH
@@ -522,19 +522,19 @@ Stock|Capital Goods|Electrical Products|Universal Display Corporation Common Sto
 Stock|Capital Goods|Electrical Products|Vishay Intertechnology Inc. Common Stock(VSH),VSH
 Stock|Capital Goods|Electrical Products|Vishay Precision Group Inc. Common Stock(VPG),VPG
 Stock|Capital Goods|Electrical Products|inTest Corporation Common Stock(INTT),INTT
-Stock|Capital Goods|Electronic Components|,NA
+Stock|Capital Goods|Electronic Components,NA
 Stock|Capital Goods|Electronic Components|Camtek Ltd. Ordinary Shares(CAMT),CAMT
 Stock|Capital Goods|Electronic Components|CyberOptics Corporation Common Stock(CYBE),CYBE
 Stock|Capital Goods|Electronic Components|II-VI Incorporated 6.00% Series A Mandatory Convertible Preferred Stock(IIVIP),IIVIP
 Stock|Capital Goods|Electronic Components|II-VI Incorporated Common Stock(IIVI),IIVI
 Stock|Capital Goods|Electronic Components|KLA Corporation Common Stock(KLAC),KLAC
 Stock|Capital Goods|Electronic Components|Nova Measuring Instruments Ltd. Ordinary Shares(NVMI),NVMI
-Stock|Capital Goods|Engineering & Construction|,NA
+Stock|Capital Goods|Engineering & Construction,NA
 Stock|Capital Goods|Engineering & Construction|Comfort Systems USA Inc. Common Stock(FIX),FIX
 Stock|Capital Goods|Engineering & Construction|EMCOR Group Inc. Common Stock(EME),EME
 Stock|Capital Goods|Engineering & Construction|IES Holdings Inc. Common Stock(IESC),IESC
 Stock|Capital Goods|Engineering & Construction|Quanta Services Inc. Common Stock(PWR),PWR
-Stock|Capital Goods|Fluid Controls|,NA
+Stock|Capital Goods|Fluid Controls,NA
 Stock|Capital Goods|Fluid Controls|Ampco-Pittsburgh Corporation Common Stock(AP),AP
 Stock|Capital Goods|Fluid Controls|Colfax Corporation 5.75% Tangible Equity Units(CFXA),CFXA
 Stock|Capital Goods|Fluid Controls|Colfax Corporation Common Stock(CFX),CFX
@@ -544,7 +544,7 @@ Stock|Capital Goods|Fluid Controls|Graco Inc. Common Stock(GGG),GGG
 Stock|Capital Goods|Fluid Controls|IDEX Corporation Common Stock(IEX),IEX
 Stock|Capital Goods|Fluid Controls|ITT Inc. Common Stock(ITT),ITT
 Stock|Capital Goods|Fluid Controls|Xylem Inc. Common Stock New(XYL),XYL
-Stock|Capital Goods|Homebuilding|,NA
+Stock|Capital Goods|Homebuilding,NA
 Stock|Capital Goods|Homebuilding|Beazer Homes USA Inc. Common Stock(BZH),BZH
 Stock|Capital Goods|Homebuilding|Century Communities Inc. Common Stock(CCS),CCS
 Stock|Capital Goods|Homebuilding|D.R. Horton Inc. Common Stock(DHI),DHI
@@ -566,7 +566,7 @@ Stock|Capital Goods|Homebuilding|PulteGroup Inc. Common Stock(PHM),PHM
 Stock|Capital Goods|Homebuilding|Taylor Morrison Home Corporation Common Stock(TMHC),TMHC
 Stock|Capital Goods|Homebuilding|Toll Brothers Inc. Common Stock(TOL),TOL
 Stock|Capital Goods|Homebuilding|Tri Pointe Homes Inc. Common Stock(TPH),TPH
-Stock|Capital Goods|Industrial Machinery/Components|,NA
+Stock|Capital Goods|Industrial Machinery/Components,NA
 Stock|Capital Goods|Industrial Machinery/Components|908 Devices Inc. Common Stock(MASS),MASS
 Stock|Capital Goods|Industrial Machinery/Components|AAON Inc. Common Stock(AAON),AAON
 Stock|Capital Goods|Industrial Machinery/Components|AGCO Corporation Common Stock(AGCO),AGCO
@@ -656,7 +656,7 @@ Stock|Capital Goods|Industrial Machinery/Components|Vertiv Holdings LLC Class A 
 Stock|Capital Goods|Industrial Machinery/Components|Vicor Corporation Common Stock(VICR),VICR
 Stock|Capital Goods|Industrial Machinery/Components|Vontier Corporation Common Stock(VNT),VNT
 Stock|Capital Goods|Industrial Machinery/Components|voxeljet AG American Depositary Shares(VJET),VJET
-Stock|Capital Goods|Industrial Specialties|,NA
+Stock|Capital Goods|Industrial Specialties,NA
 Stock|Capital Goods|Industrial Specialties|BRP Inc. (Recreational Products) Common Subordinate Voting Shares(DOOO),DOOO
 Stock|Capital Goods|Industrial Specialties|DMC Global Inc. Common Stock(BOOM),BOOM
 Stock|Capital Goods|Industrial Specialties|Masco Corporation Common Stock(MAS),MAS
@@ -671,18 +671,18 @@ Stock|Capital Goods|Industrial Specialties|Sunrun Inc. Common Stock(RUN),RUN
 Stock|Capital Goods|Industrial Specialties|Switchback Energy Acquisition Corporation Class A Common Stock(SBE),SBE
 Stock|Capital Goods|Industrial Specialties|TriMas Corporation Common Stock(TRS),TRS
 Stock|Capital Goods|Industrial Specialties|XPEL Inc. Common Stock(XPEL),XPEL
-Stock|Capital Goods|Marine Transportation|,NA
+Stock|Capital Goods|Marine Transportation,NA
 Stock|Capital Goods|Marine Transportation|General Dynamics Corporation Common Stock(GD),GD
 Stock|Capital Goods|Marine Transportation|Huntington Ingalls Industries Inc. Common Stock(HII),HII
 Stock|Capital Goods|Marine Transportation|Malibu Boats Inc. Class A Common Stock(MBUU),MBUU
 Stock|Capital Goods|Marine Transportation|Marine Products Corporation Common Stock(MPX),MPX
 Stock|Capital Goods|Marine Transportation|MasterCraft Boat Holdings Inc. Common Stock(MCFT),MCFT
 Stock|Capital Goods|Marine Transportation|Vision Marine Technologies Inc. Common Shares(VMAR),VMAR
-Stock|Capital Goods|Medical Specialities|,NA
+Stock|Capital Goods|Medical Specialities,NA
 Stock|Capital Goods|Medical Specialities|Kewaunee Scientific Corporation Common Stock(KEQU),KEQU
 Stock|Capital Goods|Medical Specialities|MISONIX Inc. Common Stock (DE)(MSON),MSON
 Stock|Capital Goods|Medical Specialities|ThermoGenesis Holdings Inc. Common Stock(THMO),THMO
-Stock|Capital Goods|Metal Fabrications|,NA
+Stock|Capital Goods|Metal Fabrications,NA
 Stock|Capital Goods|Metal Fabrications|Arcosa Inc. Common Stock(ACA),ACA
 Stock|Capital Goods|Metal Fabrications|BOQI International Medical Inc. Common Stock(BIMI),BIMI
 Stock|Capital Goods|Metal Fabrications|Barnes Group Inc. Common Stock(B),B
@@ -713,7 +713,7 @@ Stock|Capital Goods|Metal Fabrications|United States Antimony Corporation Common
 Stock|Capital Goods|Metal Fabrications|Valmont Industries Inc. Common Stock(VMI),VMI
 Stock|Capital Goods|Metal Fabrications|Watts Water Technologies Inc. Class A Common Stock(WTS),WTS
 Stock|Capital Goods|Metal Fabrications|ZK International Group Co. Ltd Ordinary Share(ZKIN),ZKIN
-Stock|Capital Goods|Military/Government/Technical|,NA
+Stock|Capital Goods|Military/Government/Technical,NA
 Stock|Capital Goods|Military/Government/Technical|Aerojet Rocketdyne Holdings Inc. Common Stock(AJRD),AJRD
 Stock|Capital Goods|Military/Government/Technical|Air Industries Group Common Stock(AIRI),AIRI
 Stock|Capital Goods|Military/Government/Technical|Astronics Corporation Common Stock(ATRO),ATRO
@@ -730,7 +730,7 @@ Stock|Capital Goods|Military/Government/Technical|Stable Road Acquisition Corp. 
 Stock|Capital Goods|Military/Government/Technical|Stable Road Acquisition Corp. Unit(SRACU),SRACU
 Stock|Capital Goods|Military/Government/Technical|Stable Road Acquisition Corp. Warrant(SRACW),SRACW
 Stock|Capital Goods|Military/Government/Technical|Transdigm Group Incorporated Transdigm Group Inc. Common Stock(TDG),TDG
-Stock|Capital Goods|Ordnance And Accessories|,NA
+Stock|Capital Goods|Ordnance And Accessories,NA
 Stock|Capital Goods|Ordnance And Accessories|AMMO Inc. Common Stock(POWW),POWW
 Stock|Capital Goods|Ordnance And Accessories|American Outdoor Brands Inc. Common Stock(AOUT),AOUT
 Stock|Capital Goods|Ordnance And Accessories|Axon Enterprise Inc. Common Stock(AXON),AXON
@@ -739,23 +739,23 @@ Stock|Capital Goods|Ordnance And Accessories|Smith & Wesson Brands Inc. Common S
 Stock|Capital Goods|Ordnance And Accessories|Sturm Ruger & Company Inc. Common Stock(RGR),RGR
 Stock|Capital Goods|Ordnance And Accessories|Vista Outdoor Inc. Common Stock(VSTO),VSTO
 Stock|Capital Goods|Ordnance And Accessories|Wrap Technologies Inc. Common Stock(WRAP),WRAP
-Stock|Capital Goods|Pollution Control Equipment|,NA
+Stock|Capital Goods|Pollution Control Equipment,NA
 Stock|Capital Goods|Pollution Control Equipment|CECO Environmental Corp. Common Stock(CECE),CECE
 Stock|Capital Goods|Pollution Control Equipment|Donaldson Company Inc. Common Stock(DCI),DCI
 Stock|Capital Goods|Pollution Control Equipment|Fuel Tech Inc. Common Stock(FTEK),FTEK
 Stock|Capital Goods|Pollution Control Equipment|Perma-Pipe International Holdings Inc. Common Stock(PPIH),PPIH
-Stock|Capital Goods|Railroads|,NA
+Stock|Capital Goods|Railroads,NA
 Stock|Capital Goods|Railroads|FreightCar America Inc. Common Stock(RAIL),RAIL
 Stock|Capital Goods|Railroads|Greenbrier Companies Inc. (The) Common Stock(GBX),GBX
 Stock|Capital Goods|Railroads|Kelso Technologies Inc Ordinary Shares(KIQ),KIQ
 Stock|Capital Goods|Railroads|Trinity Industries Inc. Common Stock(TRN),TRN
 Stock|Capital Goods|Railroads|Westinghouse Air Brake Technologies Corporation Common Stock(WAB),WAB
-Stock|Capital Goods|Recreational Products/Toys|,NA
+Stock|Capital Goods|Recreational Products/Toys,NA
 Stock|Capital Goods|Recreational Products/Toys|Greenlane Holdings Inc. Class A Common Stock(GNLN),GNLN
-Stock|Capital Goods|Specialty Chemicals|,NA
+Stock|Capital Goods|Specialty Chemicals,NA
 Stock|Capital Goods|Specialty Chemicals|Fuwei Films (Holdings) Co. Ltd. Ordinary Shares(FFHL),FFHL
 Stock|Capital Goods|Specialty Chemicals|Raven Industries Inc. Common Stock(RAVN),RAVN
-Stock|Capital Goods|Steel/Iron Ore|,NA
+Stock|Capital Goods|Steel/Iron Ore,NA
 Stock|Capital Goods|Steel/Iron Ore|Companhia Siderurgica Nacional S.A. Common Stock(SID),SID
 Stock|Capital Goods|Steel/Iron Ore|Friedman Industries Inc. Common Stock(FRD),FRD
 Stock|Capital Goods|Steel/Iron Ore|Gerdau S.A. Common Stock(GGB),GGB
@@ -763,7 +763,7 @@ Stock|Capital Goods|Steel/Iron Ore|Gibraltar Industries Inc. Common Stock(ROCK),
 Stock|Capital Goods|Steel/Iron Ore|Haynes International Inc. Common Stock(HAYN),HAYN
 Stock|Capital Goods|Steel/Iron Ore|Insteel Industries Inc. Common Stock(IIIN),IIIN
 Stock|Capital Goods|Steel/Iron Ore|Worthington Industries Inc. Common Stock(WOR),WOR
-Stock|Capital Goods|Telecommunications Equipment|,NA
+Stock|Capital Goods|Telecommunications Equipment,NA
 Stock|Capital Goods|Telecommunications Equipment|ComSovereign Holding Corp. Common Stock(COMS),COMS
 Stock|Capital Goods|Telecommunications Equipment|ComSovereign Holding Corp. Warrants(COMSW),COMSW
 Stock|Capital Goods|Telecommunications Equipment|ESCO Technologies Inc. Common Stock(ESE),ESE
@@ -780,13 +780,13 @@ Stock|Capital Goods|Telecommunications Equipment|UTStarcom Holdings Corp.(UTSI),
 Stock|Capital Goods|Telecommunications Equipment|Vislink Technologies Inc. Common Stock(VISL),VISL
 Stock|Capital Goods|Telecommunications Equipment|Vocera Communications Inc. Common Stock(VCRA),VCRA
 Stock|Capital Goods|Telecommunications Equipment|Wireless Telecom Group  Inc. Common Stock(WTT),WTT
-Stock|Capital Goods|Tools/Hardware|,NA
+Stock|Capital Goods|Tools/Hardware,NA
 Stock|Capital Goods|Tools/Hardware|Toro Company (The) Common Stock(TTC),TTC
-Stock|Capital Goods|Wholesale Distributors|,NA
+Stock|Capital Goods|Wholesale Distributors,NA
 Stock|Capital Goods|Wholesale Distributors|Bluelinx Holdings Inc. Common Stock(BXC),BXC
 Stock|Capital Goods|Wholesale Distributors|Resideo Technologies Inc. Common Stock(REZI),REZI
 Stock|Consumer Durables,NA
-Stock|Consumer Durables|Automotive Aftermarket|,NA
+Stock|Consumer Durables|Automotive Aftermarket,NA
 Stock|Consumer Durables|Automotive Aftermarket|America's Car-Mart Inc Common Stock(CRMT),CRMT
 Stock|Consumer Durables|Automotive Aftermarket|Asbury Automotive Group Inc Common Stock(ABG),ABG
 Stock|Consumer Durables|Automotive Aftermarket|AutoNation Inc. Common Stock(AN),AN
@@ -818,7 +818,7 @@ Stock|Consumer Durables|Automotive Aftermarket|TravelCenters of America Inc. 8.0
 Stock|Consumer Durables|Automotive Aftermarket|TravelCenters of America Inc. 8.25% Senior Notes due 2028(TANNI),TANNI
 Stock|Consumer Durables|Automotive Aftermarket|TravelCenters of America Inc. Common Stock(TA),TA
 Stock|Consumer Durables|Automotive Aftermarket|Vroom Inc. Common Stock(VRM),VRM
-Stock|Consumer Durables|Building Products|,NA
+Stock|Consumer Durables|Building Products,NA
 Stock|Consumer Durables|Building Products|AZZ Inc.(AZZ),AZZ
 Stock|Consumer Durables|Building Products|Acuity Brands Inc.(AYI),AYI
 Stock|Consumer Durables|Building Products|Applied UV Inc. Common Stock(AUVI),AUVI
@@ -826,20 +826,20 @@ Stock|Consumer Durables|Building Products|Chase Corporation Common Stock(CCF),CC
 Stock|Consumer Durables|Building Products|Energy Focus Inc. Common Stock(EFOI),EFOI
 Stock|Consumer Durables|Building Products|LSI Industries Inc. Common Stock(LYTS),LYTS
 Stock|Consumer Durables|Building Products|Orion Energy Systems Inc. Common Stock(OESX),OESX
-Stock|Consumer Durables|Consumer Electronics/Appliances|,NA
+Stock|Consumer Durables|Consumer Electronics/Appliances,NA
 Stock|Consumer Durables|Consumer Electronics/Appliances|A.O. Smith Corporation Common Stock(AOS),AOS
 Stock|Consumer Durables|Consumer Electronics/Appliances|NACCO Industries Inc. Common Stock(NC),NC
 Stock|Consumer Durables|Consumer Electronics/Appliances|Viomi Technology Co. Ltd American Depositary Shares(VIOT),VIOT
 Stock|Consumer Durables|Consumer Electronics/Appliances|Whirlpool Corporation Common Stock(WHR),WHR
 Stock|Consumer Durables|Consumer Electronics/Appliances|iRobot Corporation Common Stock(IRBT),IRBT
-Stock|Consumer Durables|Consumer Specialties|,NA
+Stock|Consumer Durables|Consumer Specialties,NA
 Stock|Consumer Durables|Consumer Specialties|Central Garden & Pet Company Class A Common Stock Nonvoting(CENTA),CENTA
 Stock|Consumer Durables|Consumer Specialties|Central Garden & Pet Company Common Stock(CENT),CENT
 Stock|Consumer Durables|Consumer Specialties|Charles & Colvard Ltd Common Stock(CTHR),CTHR
 Stock|Consumer Durables|Consumer Specialties|Educational Development Corporation Common Stock(EDUC),EDUC
 Stock|Consumer Durables|Consumer Specialties|Hydrofarm Holdings Group Inc. Common Stock(HYFM),HYFM
 Stock|Consumer Durables|Consumer Specialties|Natural Health Trends Corp. Common Stock(NHTC),NHTC
-Stock|Consumer Durables|Containers/Packaging|,NA
+Stock|Consumer Durables|Containers/Packaging,NA
 Stock|Consumer Durables|Containers/Packaging|Ardagh Group S.A. Common Shares(ARD),ARD
 Stock|Consumer Durables|Containers/Packaging|Avery Dennison Corporation Common Stock(AVY),AVY
 Stock|Consumer Durables|Containers/Packaging|Ball Corporation Common Stock(BLL),BLL
@@ -856,10 +856,10 @@ Stock|Consumer Durables|Containers/Packaging|Reynolds Consumer Products Inc. Com
 Stock|Consumer Durables|Containers/Packaging|Silgan Holdings Inc. Common Stock(SLGN),SLGN
 Stock|Consumer Durables|Containers/Packaging|Sonoco Products Company Common Stock(SON),SON
 Stock|Consumer Durables|Containers/Packaging|Westrock Company Common Stock(WRK),WRK
-Stock|Consumer Durables|Diversified Electronic Products|,NA
+Stock|Consumer Durables|Diversified Electronic Products,NA
 Stock|Consumer Durables|Diversified Electronic Products|Euro Tech Holdings Company Limited Common Stock(CLWT),CLWT
 Stock|Consumer Durables|Diversified Electronic Products|SiteOne Landscape Supply Inc. Common Stock(SITE),SITE
-Stock|Consumer Durables|Electrical Products|,NA
+Stock|Consumer Durables|Electrical Products,NA
 Stock|Consumer Durables|Electrical Products|ABB Ltd Common Stock(ABB),ABB
 Stock|Consumer Durables|Electrical Products|Blink Charging Co. Common Stock(BLNK),BLNK
 Stock|Consumer Durables|Electrical Products|Blink Charging Co. Warrant(BLNKW),BLNKW
@@ -870,12 +870,12 @@ Stock|Consumer Durables|Electrical Products|Newborn Acquisition Corp. Unit(NBACU
 Stock|Consumer Durables|Electrical Products|Newborn Acquisition Corp. Warrant(NBACW),NBACW
 Stock|Consumer Durables|Electrical Products|Pioneer Power Solutions Inc. Common Stock(PPSI),PPSI
 Stock|Consumer Durables|Electrical Products|Powell Industries Inc. Common Stock(POWL),POWL
-Stock|Consumer Durables|Electronic Components|,NA
+Stock|Consumer Durables|Electronic Components,NA
 Stock|Consumer Durables|Electronic Components|CF Finance Acquisition Corp. II Class A Common Stock(CFII),CFII
 Stock|Consumer Durables|Electronic Components|CF Finance Acquisition Corp. II Unit(CFIIU),CFIIU
 Stock|Consumer Durables|Electronic Components|CF Finance Acquisition Corp. II Warrant(CFIIW),CFIIW
 Stock|Consumer Durables|Electronic Components|Tecnoglass Inc. Ordinary Shares(TGLS),TGLS
-Stock|Consumer Durables|Home Furnishings|,NA
+Stock|Consumer Durables|Home Furnishings,NA
 Stock|Consumer Durables|Home Furnishings|Bassett Furniture Industries Incorporated Common Stock(BSET),BSET
 Stock|Consumer Durables|Home Furnishings|Casper Sleep Inc. Common Stock(CSPR),CSPR
 Stock|Consumer Durables|Home Furnishings|D/B/A Compass Diversified Holdings Shares of Beneficial Interest(CODI),CODI
@@ -896,9 +896,9 @@ Stock|Consumer Durables|Home Furnishings|Nova Lifestyle Inc. Common Stock(NVFY),
 Stock|Consumer Durables|Home Furnishings|Purple Innovation Inc. Common Stock(PRPL),PRPL
 Stock|Consumer Durables|Home Furnishings|Sleep Number Corporation Common Stock(SNBR),SNBR
 Stock|Consumer Durables|Home Furnishings|Tempur Sealy International Inc. Common Stock(TPX),TPX
-Stock|Consumer Durables|Industrial Machinery/Components|,NA
+Stock|Consumer Durables|Industrial Machinery/Components,NA
 Stock|Consumer Durables|Industrial Machinery/Components|Watsco Inc. Common Stock(WSO),WSO
-Stock|Consumer Durables|Industrial Specialties|,NA
+Stock|Consumer Durables|Industrial Specialties,NA
 Stock|Consumer Durables|Industrial Specialties|AerSale Corporation Common Stock(ASLE),ASLE
 Stock|Consumer Durables|Industrial Specialties|AerSale Corporation Warrants(ASLEW),ASLEW
 Stock|Consumer Durables|Industrial Specialties|Applied Industrial Technologies Inc. Common Stock(AIT),AIT
@@ -909,12 +909,12 @@ Stock|Consumer Durables|Industrial Specialties|Schnitzer Steel Industries Inc. C
 Stock|Consumer Durables|Industrial Specialties|Virco Manufacturing Corporation Common Stock(VIRC),VIRC
 Stock|Consumer Durables|Industrial Specialties|Willis Lease Finance Corporation Common Stock(WLFC),WLFC
 Stock|Consumer Durables|Industrial Specialties|urban-gro Inc. Common Stock(UGRO),UGRO
-Stock|Consumer Durables|Metal Fabrications|,NA
+Stock|Consumer Durables|Metal Fabrications,NA
 Stock|Consumer Durables|Metal Fabrications|American Superconductor Corporation Common Stock(AMSC),AMSC
 Stock|Consumer Durables|Metal Fabrications|Franklin Electric Co. Inc. Common Stock(FELE),FELE
 Stock|Consumer Durables|Metal Fabrications|Generac Holdlings Inc. Common Stock(GNRC),GNRC
 Stock|Consumer Durables|Metal Fabrications|Regal Beloit Corporation Common Stock(RBC),RBC
-Stock|Consumer Durables|Miscellaneous manufacturing industries|,NA
+Stock|Consumer Durables|Miscellaneous manufacturing industries,NA
 Stock|Consumer Durables|Miscellaneous manufacturing industries|Amcor plc Ordinary Shares(AMCR),AMCR
 Stock|Consumer Durables|Miscellaneous manufacturing industries|Array Technologies Inc. Common Stock(ARRY),ARRY
 Stock|Consumer Durables|Miscellaneous manufacturing industries|Brady Corporation Common Stock(BRC),BRC
@@ -927,15 +927,15 @@ Stock|Consumer Durables|Miscellaneous manufacturing industries|Sigma Labs Inc. C
 Stock|Consumer Durables|Miscellaneous manufacturing industries|Sigma Labs Inc. Warrant(SGLBW),SGLBW
 Stock|Consumer Durables|Miscellaneous manufacturing industries|Summer Infant Inc. Common Stock(SUMR),SUMR
 Stock|Consumer Durables|Miscellaneous manufacturing industries|VirTra Inc. Common Stock(VTSI),VTSI
-Stock|Consumer Durables|Office Equipment/Supplies/Services|,NA
+Stock|Consumer Durables|Office Equipment/Supplies/Services,NA
 Stock|Consumer Durables|Office Equipment/Supplies/Services|HNI Corporation Common Stock(HNI),HNI
 Stock|Consumer Durables|Office Equipment/Supplies/Services|Herman Miller Inc. Common Stock(MLHR),MLHR
 Stock|Consumer Durables|Office Equipment/Supplies/Services|Knoll Inc. Common Stock(KNL),KNL
 Stock|Consumer Durables|Office Equipment/Supplies/Services|Steelcase Inc. Common Stock(SCS),SCS
-Stock|Consumer Durables|Publishing|,NA
+Stock|Consumer Durables|Publishing,NA
 Stock|Consumer Durables|Publishing|Acco Brands Corporation Common Stock(ACCO),ACCO
 Stock|Consumer Durables|Publishing|Deluxe Corporation Common Stock(DLX),DLX
-Stock|Consumer Durables|Specialty Chemicals|,NA
+Stock|Consumer Durables|Specialty Chemicals,NA
 Stock|Consumer Durables|Specialty Chemicals|Aphria Inc. Common Shares(APHA),APHA
 Stock|Consumer Durables|Specialty Chemicals|Ashland Global Holdings Inc. Common Stock(ASH),ASH
 Stock|Consumer Durables|Specialty Chemicals|Aurora Cannabis Inc. Common Shares(ACB),ACB
@@ -958,10 +958,10 @@ Stock|Consumer Durables|Specialty Chemicals|Univar Solutions Inc. Common Stock(U
 Stock|Consumer Durables|Specialty Chemicals|Vesper Healthcare Acquisition Corp. Class A Common Stock(VSPR),VSPR
 Stock|Consumer Durables|Specialty Chemicals|Vesper Healthcare Acquisition Corp. Unit(VSPRU),VSPRU
 Stock|Consumer Durables|Specialty Chemicals|Vesper Healthcare Acquisition Corp. Warrant(VSPRW),VSPRW
-Stock|Consumer Durables|Steel/Iron Ore|,NA
+Stock|Consumer Durables|Steel/Iron Ore,NA
 Stock|Consumer Durables|Steel/Iron Ore|Code Chain New Continent Limited Common Stock(CCNC),CCNC
 Stock|Consumer Non-Durables,NA
-Stock|Consumer Non-Durables|Apparel|,NA
+Stock|Consumer Non-Durables|Apparel,NA
 Stock|Consumer Non-Durables|Apparel|Canada Goose Holdings Inc. Subordinate Voting Shares(GOOS),GOOS
 Stock|Consumer Non-Durables|Apparel|Capri Holdings Limited Ordinary Shares(CPRI),CPRI
 Stock|Consumer Non-Durables|Apparel|Carter's Inc. Common Stock(CRI),CRI
@@ -990,7 +990,7 @@ Stock|Consumer Non-Durables|Apparel|V.F. Corporation Common Stock(VFC),VFC
 Stock|Consumer Non-Durables|Apparel|Vera Bradley Inc. Common Stock(VRA),VRA
 Stock|Consumer Non-Durables|Apparel|Weyco Group Inc. Common Stock(WEYS),WEYS
 Stock|Consumer Non-Durables|Apparel|lululemon athletica inc. Common Stock(LULU),LULU
-Stock|Consumer Non-Durables|Beverages (Production/Distribution)|,NA
+Stock|Consumer Non-Durables|Beverages (Production/Distribution),NA
 Stock|Consumer Non-Durables|Beverages (Production/Distribution)|Ambev S.A. American Depositary Shares (Each representing 1 Common Share)(ABEV),ABEV
 Stock|Consumer Non-Durables|Beverages (Production/Distribution)|Anheuser-Busch Inbev SA Sponsored ADR (Belgium)(BUD),BUD
 Stock|Consumer Non-Durables|Beverages (Production/Distribution)|Boston Beer Company Inc. (The) Common Stock(SAM),SAM
@@ -1015,7 +1015,7 @@ Stock|Consumer Non-Durables|Beverages (Production/Distribution)|Primo Water Corp
 Stock|Consumer Non-Durables|Beverages (Production/Distribution)|Reeds Inc. Common Stock(REED),REED
 Stock|Consumer Non-Durables|Beverages (Production/Distribution)|Willamette Valley Vineyards Inc. Common Stock(WVVI),WVVI
 Stock|Consumer Non-Durables|Beverages (Production/Distribution)|Willamette Valley Vineyards Inc. Series A Redeemable Preferred Stock(WVVIP),WVVIP
-Stock|Consumer Non-Durables|Consumer Electronics/Appliances|,NA
+Stock|Consumer Non-Durables|Consumer Electronics/Appliances,NA
 Stock|Consumer Non-Durables|Consumer Electronics/Appliances|Arlo Technologies Inc. Common Stock(ARLO),ARLO
 Stock|Consumer Non-Durables|Consumer Electronics/Appliances|Emerson Radio Corporation Common Stock(MSN),MSN
 Stock|Consumer Non-Durables|Consumer Electronics/Appliances|Genasys Inc. Common Stock(GNSS),GNSS
@@ -1025,10 +1025,10 @@ Stock|Consumer Non-Durables|Consumer Electronics/Appliances|Koss Corporation Com
 Stock|Consumer Non-Durables|Consumer Electronics/Appliances|Sonos Inc. Common Stock(SONO),SONO
 Stock|Consumer Non-Durables|Consumer Electronics/Appliances|Sony Corporation Common Stock(SNE),SNE
 Stock|Consumer Non-Durables|Consumer Electronics/Appliances|Universal Electronics Inc. Common Stock(UEIC),UEIC
-Stock|Consumer Non-Durables|Consumer Specialties|,NA
+Stock|Consumer Non-Durables|Consumer Specialties,NA
 Stock|Consumer Non-Durables|Consumer Specialties|Fossil Group Inc. Common Stock(FOSL),FOSL
 Stock|Consumer Non-Durables|Consumer Specialties|Movado Group Inc. Common Stock(MOV),MOV
-Stock|Consumer Non-Durables|Farming/Seeds/Milling|,NA
+Stock|Consumer Non-Durables|Farming/Seeds/Milling,NA
 Stock|Consumer Non-Durables|Farming/Seeds/Milling|22nd Century Group Inc. Common Stock(XXII),XXII
 Stock|Consumer Non-Durables|Farming/Seeds/Milling|Adecoagro S.A. Common Shares(AGRO),AGRO
 Stock|Consumer Non-Durables|Farming/Seeds/Milling|Agrify Corporation Common Stock(AGFY),AGFY
@@ -1053,11 +1053,11 @@ Stock|Consumer Non-Durables|Farming/Seeds/Milling|S&W Seed Company Common Stock 
 Stock|Consumer Non-Durables|Farming/Seeds/Milling|Shineco Inc. Common Stock(TYHT),TYHT
 Stock|Consumer Non-Durables|Farming/Seeds/Milling|Vector Group Ltd. Common Stock(VGR),VGR
 Stock|Consumer Non-Durables|Farming/Seeds/Milling|Village Farms International Inc. Common Shares(VFF),VFF
-Stock|Consumer Non-Durables|Food Chains|,NA
+Stock|Consumer Non-Durables|Food Chains,NA
 Stock|Consumer Non-Durables|Food Chains|ARKO Corp. Common Stock(ARKO),ARKO
 Stock|Consumer Non-Durables|Food Chains|ARKO Corp. Warrant(ARKOW),ARKOW
 Stock|Consumer Non-Durables|Food Chains|DAVIDsTEA Inc. Common Stock(DTEA),DTEA
-Stock|Consumer Non-Durables|Food Distributors|,NA
+Stock|Consumer Non-Durables|Food Distributors,NA
 Stock|Consumer Non-Durables|Food Distributors|AMCON Distributing Company Common Stock(DIT),DIT
 Stock|Consumer Non-Durables|Food Distributors|Core Mark Holding Co Inc Common Stock(CORE),CORE
 Stock|Consumer Non-Durables|Food Distributors|Cuentas Inc. Common Stock(CUEN),CUEN
@@ -1073,10 +1073,10 @@ Stock|Consumer Non-Durables|Food Distributors|The Alkaline Water Company Inc. Co
 Stock|Consumer Non-Durables|Food Distributors|The Chefs' Warehouse Inc. Common Stock(CHEF),CHEF
 Stock|Consumer Non-Durables|Food Distributors|US Foods Holding Corp. Common Stock(USFD),USFD
 Stock|Consumer Non-Durables|Food Distributors|United Natural Foods Inc. Common Stock(UNFI),UNFI
-Stock|Consumer Non-Durables|Homebuilding|,NA
+Stock|Consumer Non-Durables|Homebuilding,NA
 Stock|Consumer Non-Durables|Homebuilding|Thor Industries Inc. Common Stock(THO),THO
 Stock|Consumer Non-Durables|Homebuilding|Winnebago Industries Inc. Common Stock(WGO),WGO
-Stock|Consumer Non-Durables|Meat/Poultry/Fish|,NA
+Stock|Consumer Non-Durables|Meat/Poultry/Fish,NA
 Stock|Consumer Non-Durables|Meat/Poultry/Fish|BRF S.A.(BRFS),BRFS
 Stock|Consumer Non-Durables|Meat/Poultry/Fish|China Xiangtai Food Co. Ltd. Ordinary Shares(PLIN),PLIN
 Stock|Consumer Non-Durables|Meat/Poultry/Fish|Hormel Foods Corporation Common Stock(HRL),HRL
@@ -1084,12 +1084,12 @@ Stock|Consumer Non-Durables|Meat/Poultry/Fish|Industrias Bachoco S.A.B. de C.V. 
 Stock|Consumer Non-Durables|Meat/Poultry/Fish|Pilgrim's Pride Corporation Common Stock(PPC),PPC
 Stock|Consumer Non-Durables|Meat/Poultry/Fish|Sanderson Farms Inc. Common Stock(SAFM),SAFM
 Stock|Consumer Non-Durables|Meat/Poultry/Fish|Tyson Foods Inc. Common Stock(TSN),TSN
-Stock|Consumer Non-Durables|Motor Vehicles|,NA
+Stock|Consumer Non-Durables|Motor Vehicles,NA
 Stock|Consumer Non-Durables|Motor Vehicles|Arcimoto Inc. Common Stock(FUV),FUV
 Stock|Consumer Non-Durables|Motor Vehicles|EZGO Technologies Ltd. Ordinary Shares(EZGO),EZGO
 Stock|Consumer Non-Durables|Motor Vehicles|Fox Factory Holding Corp. Common Stock(FOXF),FOXF
 Stock|Consumer Non-Durables|Motor Vehicles|Harley-Davidson Inc. Common Stock(HOG),HOG
-Stock|Consumer Non-Durables|Package Goods/Cosmetics|,NA
+Stock|Consumer Non-Durables|Package Goods/Cosmetics,NA
 Stock|Consumer Non-Durables|Package Goods/Cosmetics|Colgate-Palmolive Company Common Stock(CL),CL
 Stock|Consumer Non-Durables|Package Goods/Cosmetics|Coty Inc. Class A Common Stock(COTY),COTY
 Stock|Consumer Non-Durables|Package Goods/Cosmetics|Edgewell Personal Care Company Common Stock(EPC),EPC
@@ -1102,7 +1102,7 @@ Stock|Consumer Non-Durables|Package Goods/Cosmetics|United-Guardian Inc. Common 
 Stock|Consumer Non-Durables|Package Goods/Cosmetics|Yatsen Holding Limited American Depositary Shares each representing four Class A ordinary shares(YSG),YSG
 Stock|Consumer Non-Durables|Package Goods/Cosmetics|cbdMD Inc. Common Stock(YCBD),YCBD
 Stock|Consumer Non-Durables|Package Goods/Cosmetics|e.l.f. Beauty Inc. Common Stock(ELF),ELF
-Stock|Consumer Non-Durables|Packaged Foods|,NA
+Stock|Consumer Non-Durables|Packaged Foods,NA
 Stock|Consumer Non-Durables|Packaged Foods|Archer-Daniels-Midland Company Common Stock(ADM),ADM
 Stock|Consumer Non-Durables|Packaged Foods|B&G Foods Inc. B&G Foods Inc. Common Stock(BGS),BGS
 Stock|Consumer Non-Durables|Packaged Foods|BellRing Brands Inc. Class A Common Stock(BRBR),BRBR
@@ -1144,7 +1144,7 @@ Stock|Consumer Non-Durables|Packaged Foods|The Simply Good Foods Company Common 
 Stock|Consumer Non-Durables|Packaged Foods|Treehouse Foods Inc. Common Stock(THS),THS
 Stock|Consumer Non-Durables|Packaged Foods|Utz Brands Inc Class A Common Stock(UTZ),UTZ
 Stock|Consumer Non-Durables|Packaged Foods|Vital Farms Inc. Common Stock(VITL),VITL
-Stock|Consumer Non-Durables|Plastic Products|,NA
+Stock|Consumer Non-Durables|Plastic Products,NA
 Stock|Consumer Non-Durables|Plastic Products|AptarGroup Inc. Common Stock(ATR),ATR
 Stock|Consumer Non-Durables|Plastic Products|Armstrong Flooring Inc. Common Stock(AFI),AFI
 Stock|Consumer Non-Durables|Plastic Products|Armstrong World Industries Inc Common Stock(AWI),AWI
@@ -1157,7 +1157,7 @@ Stock|Consumer Non-Durables|Plastic Products|Myers Industries Inc. Common Stock(
 Stock|Consumer Non-Durables|Plastic Products|Newell Brands Inc. Common Stock(NWL),NWL
 Stock|Consumer Non-Durables|Plastic Products|The AZEK Company Inc. Class A Common Stock(AZEK),AZEK
 Stock|Consumer Non-Durables|Plastic Products|Tupperware Brands Corporation Common Stock(TUP),TUP
-Stock|Consumer Non-Durables|Recreational Products/Toys|,NA
+Stock|Consumer Non-Durables|Recreational Products/Toys,NA
 Stock|Consumer Non-Durables|Recreational Products/Toys|Acushnet Holdings Corp. Common Stock(GOLF),GOLF
 Stock|Consumer Non-Durables|Recreational Products/Toys|Blue Hat Interactive Entertainment Technology Ordinary Shares(BHAT),BHAT
 Stock|Consumer Non-Durables|Recreational Products/Toys|Callaway Golf Company Common Stock(ELY),ELY
@@ -1171,7 +1171,7 @@ Stock|Consumer Non-Durables|Recreational Products/Toys|Mattel Inc. Common Stock(
 Stock|Consumer Non-Durables|Recreational Products/Toys|Nautilus Inc. Common Stock(NLS),NLS
 Stock|Consumer Non-Durables|Recreational Products/Toys|Vinco Ventures Inc. Common Stock(BBIG),BBIG
 Stock|Consumer Non-Durables|Recreational Products/Toys|YETI Holdings Inc. Common Stock(YETI),YETI
-Stock|Consumer Non-Durables|Shoe Manufacturing|,NA
+Stock|Consumer Non-Durables|Shoe Manufacturing,NA
 Stock|Consumer Non-Durables|Shoe Manufacturing|Caleres Inc. Common Stock(CAL),CAL
 Stock|Consumer Non-Durables|Shoe Manufacturing|Crocs Inc. Common Stock(CROX),CROX
 Stock|Consumer Non-Durables|Shoe Manufacturing|Deckers Outdoor Corporation Common Stock(DECK),DECK
@@ -1181,7 +1181,7 @@ Stock|Consumer Non-Durables|Shoe Manufacturing|Rocky Brands Inc. Common Stock(RC
 Stock|Consumer Non-Durables|Shoe Manufacturing|Skechers U.S.A. Inc. Common Stock(SKX),SKX
 Stock|Consumer Non-Durables|Shoe Manufacturing|Steven Madden Ltd. Common Stock(SHOO),SHOO
 Stock|Consumer Non-Durables|Shoe Manufacturing|Wolverine World Wide Inc. Common Stock(WWW),WWW
-Stock|Consumer Non-Durables|Specialty Foods|,NA
+Stock|Consumer Non-Durables|Specialty Foods,NA
 Stock|Consumer Non-Durables|Specialty Foods|Bridgford Foods Corporation Common Stock(BRID),BRID
 Stock|Consumer Non-Durables|Specialty Foods|Cosan Limited Class A Common Stock(CZZ),CZZ
 Stock|Consumer Non-Durables|Specialty Foods|J & J Snack Foods Corp. Common Stock(JJSF),JJSF
@@ -1191,19 +1191,19 @@ Stock|Consumer Non-Durables|Specialty Foods|The Hershey Company Common Stock(HSY
 Stock|Consumer Non-Durables|Specialty Foods|Tootsie Roll Industries Inc. Common Stock(TR),TR
 Stock|Consumer Non-Durables|Specialty Foods|Whole Earth Brands Inc. Class A Common Stock(FREE),FREE
 Stock|Consumer Non-Durables|Specialty Foods|Whole Earth Brands Inc. Warrant(FREEW),FREEW
-Stock|Consumer Non-Durables|Telecommunications Equipment|,NA
+Stock|Consumer Non-Durables|Telecommunications Equipment,NA
 Stock|Consumer Non-Durables|Telecommunications Equipment|Houston Wire & Cable Company Common Stock(HWCC),HWCC
 Stock|Consumer Non-Durables|Telecommunications Equipment|WESCO International Inc. Common Stock(WCC),WCC
-Stock|Consumer Non-Durables|Textiles|,NA
+Stock|Consumer Non-Durables|Textiles,NA
 Stock|Consumer Non-Durables|Textiles|Amalgamated Bank Class A Common Stock(AMAL),AMAL
 Stock|Consumer Non-Durables|Textiles|Capital Southwest Corporation Common Stock(CSWC),CSWC
 Stock|Consumer Non-Durables|Textiles|Gladstone Capital Corporation 5.375% Notes due 2024(GLADL),GLADL
 Stock|Consumer Non-Durables|Textiles|Gladstone Capital Corporation Common Stock(GLAD),GLAD
 Stock|Consumer Non-Durables|Textiles|Unifi Inc. New Common Stock(UFI),UFI
-Stock|Consumer Non-Durables|Tobacco|,NA
+Stock|Consumer Non-Durables|Tobacco,NA
 Stock|Consumer Non-Durables|Tobacco|Turning Point Brands Inc. Common Stock(TPB),TPB
 Stock|Consumer Services,NA
-Stock|Consumer Services|Advertising|,NA
+Stock|Consumer Services|Advertising,NA
 Stock|Consumer Services|Advertising|ANGI Homeservices Inc. Class A Common Stock(ANGI),ANGI
 Stock|Consumer Services|Advertising|Clear Channel Outdoor Holdings Inc. Common Stock(CCO),CCO
 Stock|Consumer Services|Advertising|Fluent Inc. Common Stock(FLNT),FLNT
@@ -1214,14 +1214,14 @@ Stock|Consumer Services|Advertising|National CineMedia Inc. Common Stock(NCMI),N
 Stock|Consumer Services|Advertising|Quotient Technology Inc. Common Stock(QUOT),QUOT
 Stock|Consumer Services|Advertising|Thryv Holdings Inc. Common Stock(THRY),THRY
 Stock|Consumer Services|Advertising|Travelzoo Common Stock(TZOO),TZOO
-Stock|Consumer Services|Automotive Aftermarket|,NA
+Stock|Consumer Services|Automotive Aftermarket,NA
 Stock|Consumer Services|Automotive Aftermarket|Driven Brands Holdings Inc. Common Stock(DRVN),DRVN
 Stock|Consumer Services|Automotive Aftermarket|Monro Inc. Common Stock(MNRO),MNRO
-Stock|Consumer Services|Books|,NA
+Stock|Consumer Services|Books,NA
 Stock|Consumer Services|Books|Houghton Mifflin Harcourt Company Common Stock(HMHC),HMHC
 Stock|Consumer Services|Books|Pearson Plc Common Stock(PSO),PSO
 Stock|Consumer Services|Books|Scholastic Corporation Common Stock(SCHL),SCHL
-Stock|Consumer Services|Broadcasting|,NA
+Stock|Consumer Services|Broadcasting,NA
 Stock|Consumer Services|Broadcasting|Beasley Broadcast Group Inc. Class A Common Stock(BBGI),BBGI
 Stock|Consumer Services|Broadcasting|Cumulus Media Inc. Class A Common Stock(CMLS),CMLS
 Stock|Consumer Services|Broadcasting|E.W. Scripps Company (The) Class A Common Stock(SSP),SSP
@@ -1254,7 +1254,7 @@ Stock|Consumer Services|Broadcasting|Urban One Inc. Class D Common Stock(UONEK),
 Stock|Consumer Services|Broadcasting|ViacomCBS Inc. Class A Common Stock(VIACA),VIACA
 Stock|Consumer Services|Broadcasting|ViacomCBS Inc. Class B Common Stock(VIAC),VIAC
 Stock|Consumer Services|Broadcasting|iHeartMedia Inc. Class A Common Stock(IHRT),IHRT
-Stock|Consumer Services|Building operators|,NA
+Stock|Consumer Services|Building operators,NA
 Stock|Consumer Services|Building operators|Brookfield Asset Management Inc. Common Stock(BAM),BAM
 Stock|Consumer Services|Building operators|Brookfield Finance Inc. 4.50% Perpetual Subordinated Notes(BAMI),BAMI
 Stock|Consumer Services|Building operators|Brookfield Finance Inc. 4.625% Subordinated Notes due October 16 2080(BAMH),BAMH
@@ -1267,7 +1267,7 @@ Stock|Consumer Services|Building operators|Phoenix Tree Holdings Limited America
 Stock|Consumer Services|Building operators|Piedmont Office Realty Trust Inc. Class A Common Stock(PDM),PDM
 Stock|Consumer Services|Building operators|Spirit Realty Capital Inc. Common Stock(SRC),SRC
 Stock|Consumer Services|Building operators|Trinity Place Holdings Inc. Common Stock(TPHS),TPHS
-Stock|Consumer Services|Catalog/Specialty Distribution|,NA
+Stock|Consumer Services|Catalog/Specialty Distribution,NA
 Stock|Consumer Services|Catalog/Specialty Distribution|Amazon.com Inc. Common Stock(AMZN),AMZN
 Stock|Consumer Services|Catalog/Specialty Distribution|Baozun Inc. American Depositary Shares(BZUN),BZUN
 Stock|Consumer Services|Catalog/Specialty Distribution|Betterware de Mexico S.A.B. de C.V. Ordinary Shares(BWMX),BWMX
@@ -1296,7 +1296,7 @@ Stock|Consumer Services|Catalog/Specialty Distribution|Vipshop Holdings Limited 
 Stock|Consumer Services|Catalog/Specialty Distribution|Wayfair Inc. Class A Common Stock(W),W
 Stock|Consumer Services|Catalog/Specialty Distribution|Wunong Net Technology Company Limited Ordinary Shares(WNW),WNW
 Stock|Consumer Services|Catalog/Specialty Distribution|iMedia Brands Inc. Class A Common Stock(IMBI),IMBI
-Stock|Consumer Services|Clothing/Shoe/Accessory Stores|,NA
+Stock|Consumer Services|Clothing/Shoe/Accessory Stores,NA
 Stock|Consumer Services|Clothing/Shoe/Accessory Stores|Abercrombie & Fitch Company Common Stock(ANF),ANF
 Stock|Consumer Services|Clothing/Shoe/Accessory Stores|American Eagle Outfitters Inc. Common Stock(AEO),AEO
 Stock|Consumer Services|Clothing/Shoe/Accessory Stores|Boot Barn Holdings Inc. Common Stock(BOOT),BOOT
@@ -1322,18 +1322,18 @@ Stock|Consumer Services|Clothing/Shoe/Accessory Stores|Tilly's Inc. Common Stock
 Stock|Consumer Services|Clothing/Shoe/Accessory Stores|Urban Outfitters Inc. Common Stock(URBN),URBN
 Stock|Consumer Services|Clothing/Shoe/Accessory Stores|Vince Holding Corp. Common Stock(VNCE),VNCE
 Stock|Consumer Services|Clothing/Shoe/Accessory Stores|Zumiez Inc. Common Stock(ZUMZ),ZUMZ
-Stock|Consumer Services|Consumer Electronics/Video Chains|,NA
+Stock|Consumer Services|Consumer Electronics/Video Chains,NA
 Stock|Consumer Services|Consumer Electronics/Video Chains|Best Buy Co. Inc. Common Stock(BBY),BBY
 Stock|Consumer Services|Consumer Electronics/Video Chains|Cinedigm Corp. Class A Common Stock(CIDM),CIDM
 Stock|Consumer Services|Consumer Electronics/Video Chains|Conn's Inc. Common Stock(CONN),CONN
 Stock|Consumer Services|Consumer Electronics/Video Chains|Kaspien Holdings Inc. Common Stock(KSPN),KSPN
 Stock|Consumer Services|Consumer Electronics/Video Chains|Netflix Inc. Common Stock(NFLX),NFLX
 Stock|Consumer Services|Consumer Electronics/Video Chains|iQIYI Inc. American Depositary Shares(IQ),IQ
-Stock|Consumer Services|Consumer Specialties|,NA
+Stock|Consumer Services|Consumer Specialties,NA
 Stock|Consumer Services|Consumer Specialties|Birks Group Inc. Common Stock(BGI),BGI
 Stock|Consumer Services|Consumer Specialties|Envela Corporation Common Stock(ELA),ELA
 Stock|Consumer Services|Consumer Specialties|Signet Jewelers Limited Common Shares(SIG),SIG
-Stock|Consumer Services|Department/Specialty Retail Stores|,NA
+Stock|Consumer Services|Department/Specialty Retail Stores,NA
 Stock|Consumer Services|Department/Specialty Retail Stores|BJ's Wholesale Club Holdings Inc. Common Stock(BJ),BJ
 Stock|Consumer Services|Department/Specialty Retail Stores|Big Lots Inc. Common Stock(BIG),BIG
 Stock|Consumer Services|Department/Specialty Retail Stores|Burlington Stores Inc. Common Stock(BURL),BURL
@@ -1350,7 +1350,7 @@ Stock|Consumer Services|Department/Specialty Retail Stores|Ollie's Bargain Outle
 Stock|Consumer Services|Department/Specialty Retail Stores|PriceSmart Inc. Common Stock(PSMT),PSMT
 Stock|Consumer Services|Department/Specialty Retail Stores|Target Corporation Common Stock(TGT),TGT
 Stock|Consumer Services|Department/Specialty Retail Stores|Walmart Inc. Common Stock(WMT),WMT
-Stock|Consumer Services|Diversified Commercial Services|,NA
+Stock|Consumer Services|Diversified Commercial Services,NA
 Stock|Consumer Services|Diversified Commercial Services|ADT Inc. Common Stock(ADT),ADT
 Stock|Consumer Services|Diversified Commercial Services|Allegion plc Ordinary Shares(ALLE),ALLE
 Stock|Consumer Services|Diversified Commercial Services|Forrester Research Inc. Common Stock(FORR),FORR
@@ -1364,9 +1364,9 @@ Stock|Consumer Services|Diversified Commercial Services|TS Innovation Acquisitio
 Stock|Consumer Services|Diversified Commercial Services|TS Innovation Acquisitions Corp. Unit(TSIAU),TSIAU
 Stock|Consumer Services|Diversified Commercial Services|TS Innovation Acquisitions Corp. Warrant(TSIAW),TSIAW
 Stock|Consumer Services|Diversified Commercial Services|Vectrus Inc. Common Stock(VEC),VEC
-Stock|Consumer Services|Electronics Distribution|,NA
+Stock|Consumer Services|Electronics Distribution,NA
 Stock|Consumer Services|Electronics Distribution|GameStop Corporation Common Stock(GME),GME
-Stock|Consumer Services|Farming/Seeds/Milling|,NA
+Stock|Consumer Services|Farming/Seeds/Milling,NA
 Stock|Consumer Services|Farming/Seeds/Milling|Andersons Inc. (The) Common Stock(ANDE),ANDE
 Stock|Consumer Services|Farming/Seeds/Milling|CHS Inc Class B Cumulative Redeemable Preferred Stock Series 4(CHSCL),CHSCL
 Stock|Consumer Services|Farming/Seeds/Milling|CHS Inc Class B Reset Rate Cumulative Redeemable Preferred Stock Series 3(CHSCM),CHSCM
@@ -1376,7 +1376,7 @@ Stock|Consumer Services|Farming/Seeds/Milling|CHS Inc. Class B Cumulative Redeem
 Stock|Consumer Services|Farming/Seeds/Milling|Seaboard Corporation Common Stock(SEB),SEB
 Stock|Consumer Services|Farming/Seeds/Milling|SunOpta Inc. Common Stock(STKL),STKL
 Stock|Consumer Services|Farming/Seeds/Milling|Universal Corporation Common Stock(UVV),UVV
-Stock|Consumer Services|Food Chains|,NA
+Stock|Consumer Services|Food Chains,NA
 Stock|Consumer Services|Food Chains|Albertsons Companies Inc. Class A Common Stock(ACI),ACI
 Stock|Consumer Services|Food Chains|Companhia Brasileira de Distribuicao American Depsitary Shares; each representing one Common Share(CBD),CBD
 Stock|Consumer Services|Food Chains|Grocery Outlet Holding Corp. Common Stock(GO),GO
@@ -1387,18 +1387,18 @@ Stock|Consumer Services|Food Chains|Sprouts Farmers Market Inc. Common Stock(SFM
 Stock|Consumer Services|Food Chains|Village Super Market Inc. Class A Common Stock(VLGEA),VLGEA
 Stock|Consumer Services|Food Chains|Weis Markets Inc. Common Stock(WMK),WMK
 Stock|Consumer Services|Food Chains|iFresh Inc. Common Stock(IFMK),IFMK
-Stock|Consumer Services|Home Furnishings|,NA
+Stock|Consumer Services|Home Furnishings,NA
 Stock|Consumer Services|Home Furnishings|1847 Goedeker Inc. Commom Stock(GOED),GOED
 Stock|Consumer Services|Home Furnishings|At Home Group Inc. Common Stock(HOME),HOME
 Stock|Consumer Services|Home Furnishings|Bed Bath & Beyond Inc. Common Stock(BBBY),BBBY
 Stock|Consumer Services|Home Furnishings|Container Store (The) Common Stock(TCS),TCS
 Stock|Consumer Services|Home Furnishings|JanOne Inc. Common Stock (NV)(JAN),JAN
 Stock|Consumer Services|Home Furnishings|Williams-Sonoma Inc. Common Stock (DE)(WSM),WSM
-Stock|Consumer Services|Homebuilding|,NA
+Stock|Consumer Services|Homebuilding,NA
 Stock|Consumer Services|Homebuilding|IRSA Inversiones Y Representaciones S.A. Common Stock(IRS),IRS
 Stock|Consumer Services|Homebuilding|St. Joe Company (The) Common Stock(JOE),JOE
 Stock|Consumer Services|Homebuilding|Stratus Properties Inc. Common Stock(STRS),STRS
-Stock|Consumer Services|Hotels/Resorts|,NA
+Stock|Consumer Services|Hotels/Resorts,NA
 Stock|Consumer Services|Hotels/Resorts|Bally's Corporation Common Stock(BALY),BALY
 Stock|Consumer Services|Hotels/Resorts|Boyd Gaming Corporation Common Stock(BYD),BYD
 Stock|Consumer Services|Hotels/Resorts|Caesars Entertainment Inc. Common Stock(CZR),CZR
@@ -1432,7 +1432,7 @@ Stock|Consumer Services|Hotels/Resorts|Target Hospitality Corp. Warrant expiring
 Stock|Consumer Services|Hotels/Resorts|Wyndham Hotels & Resorts Inc. Common Stock(WH),WH
 Stock|Consumer Services|Hotels/Resorts|Wynn Resorts Limited Common stock(WYNN),WYNN
 Stock|Consumer Services|Hotels/Resorts|Xenia Hotels & Resorts Inc. Common Stock(XHR),XHR
-Stock|Consumer Services|Marine Transportation|,NA
+Stock|Consumer Services|Marine Transportation,NA
 Stock|Consumer Services|Marine Transportation|Brookfield Infrastructure Partners LP Limited Partnership Units(BIP),BIP
 Stock|Consumer Services|Marine Transportation|Carnival Corporation Common Stock(CCL),CCL
 Stock|Consumer Services|Marine Transportation|Carnival Plc ADS ADS(CUK),CUK
@@ -1457,7 +1457,7 @@ Stock|Consumer Services|Marine Transportation|Odyssey Marine Exploration Inc. Co
 Stock|Consumer Services|Marine Transportation|Teekay LNG Partners L.P.(TGP),TGP
 Stock|Consumer Services|Marine Transportation|Teekay Tankers Ltd.(TNK),TNK
 Stock|Consumer Services|Marine Transportation|Tidewater Inc. Common Stock(TDW),TDW
-Stock|Consumer Services|Military/Government/Technical|,NA
+Stock|Consumer Services|Military/Government/Technical,NA
 Stock|Consumer Services|Military/Government/Technical|AECOM Common Stock(ACM),ACM
 Stock|Consumer Services|Military/Government/Technical|ENGlobal Corporation Common Stock(ENG),ENG
 Stock|Consumer Services|Military/Government/Technical|Hill International Inc. Common Stock(HIL),HIL
@@ -1466,13 +1466,13 @@ Stock|Consumer Services|Military/Government/Technical|Stantec Inc Common Stock(S
 Stock|Consumer Services|Military/Government/Technical|Tetra Tech Inc. Common Stock(TTEK),TTEK
 Stock|Consumer Services|Military/Government/Technical|VSE Corporation Common Stock(VSEC),VSEC
 Stock|Consumer Services|Military/Government/Technical|Willdan Group Inc. Common Stock(WLDN),WLDN
-Stock|Consumer Services|Miscellaneous|,NA
+Stock|Consumer Services|Miscellaneous,NA
 Stock|Consumer Services|Miscellaneous|Barings Participation Investors Common Stock(MPV),MPV
 Stock|Consumer Services|Miscellaneous|Sprott Focus Trust Inc. Common Stock(FUND),FUND
 Stock|Consumer Services|Miscellaneous|Tri Continental Corporation Preferred Stock(TY^),TY^
-Stock|Consumer Services|Motor Vehicles|,NA
+Stock|Consumer Services|Motor Vehicles,NA
 Stock|Consumer Services|Motor Vehicles|LKQ Corporation Common Stock(LKQ),LKQ
-Stock|Consumer Services|Movies/Entertainment|,NA
+Stock|Consumer Services|Movies/Entertainment,NA
 Stock|Consumer Services|Movies/Entertainment|AMC Entertainment Holdings Inc. Class A Common Stock(AMC),AMC
 Stock|Consumer Services|Movies/Entertainment|Chicken Soup for the Soul Entertainment Inc. 9.50% Notes due 2025(CSSEN),CSSEN
 Stock|Consumer Services|Movies/Entertainment|Chicken Soup for the Soul Entertainment Inc. 9.75% Series A Cumulative Redeemable Perpetual Preferred Stock(CSSEP),CSSEP
@@ -1490,7 +1490,7 @@ Stock|Consumer Services|Movies/Entertainment|Reading International Inc Class A C
 Stock|Consumer Services|Movies/Entertainment|Reading International Inc Class B Common Stock(RDIB),RDIB
 Stock|Consumer Services|Movies/Entertainment|World Wrestling Entertainment Inc. Class A Common Stock(WWE),WWE
 Stock|Consumer Services|Movies/Entertainment|fuboTV Inc. Common Stock(FUBO),FUBO
-Stock|Consumer Services|Newspapers/Magazines|,NA
+Stock|Consumer Services|Newspapers/Magazines,NA
 Stock|Consumer Services|Newspapers/Magazines|A.H. Belo Corporation (TX) Common Stock(AHC),AHC
 Stock|Consumer Services|Newspapers/Magazines|AMREP Corporation Common Stock(AXR),AXR
 Stock|Consumer Services|Newspapers/Magazines|Daily Journal Corp. (S.C.) Common Stock(DJCO),DJCO
@@ -1501,11 +1501,11 @@ Stock|Consumer Services|Newspapers/Magazines|New York Times Company (The) Common
 Stock|Consumer Services|Newspapers/Magazines|News Corporation Class A Common Stock(NWSA),NWSA
 Stock|Consumer Services|Newspapers/Magazines|News Corporation Class B Common Stock(NWS),NWS
 Stock|Consumer Services|Newspapers/Magazines|Tribune Publishing Company Common Stock(TPCO),TPCO
-Stock|Consumer Services|Office Equipment/Supplies/Services|,NA
+Stock|Consumer Services|Office Equipment/Supplies/Services,NA
 Stock|Consumer Services|Office Equipment/Supplies/Services|ADDvantage Technologies Group Inc. Common Stock(AEY),AEY
 Stock|Consumer Services|Office Equipment/Supplies/Services|Ennis Inc. Common Stock(EBF),EBF
 Stock|Consumer Services|Office Equipment/Supplies/Services|W.W. Grainger Inc. Common Stock(GWW),GWW
-Stock|Consumer Services|Other Consumer Services|,NA
+Stock|Consumer Services|Other Consumer Services,NA
 Stock|Consumer Services|Other Consumer Services|17 Education & Technology Group Inc. American Depositary Shares(YQ),YQ
 Stock|Consumer Services|Other Consumer Services|ATA Creativity Global American Depositary Shares(AACG),AACG
 Stock|Consumer Services|Other Consumer Services|Adtalem Global Education Inc. Common Stock(ATGE),ATGE
@@ -1588,7 +1588,7 @@ Stock|Consumer Services|Other Consumer Services|Youdao Inc. American Depositary 
 Stock|Consumer Services|Other Consumer Services|Zhongchao Inc. Class A Ordinary Shares(ZCMD),ZCMD
 Stock|Consumer Services|Other Consumer Services|Zovio Inc. Common Stock(ZVO),ZVO
 Stock|Consumer Services|Other Consumer Services|iHuman Inc. American depositary shares each representing five Class A ordinary shares(IH),IH
-Stock|Consumer Services|Other Specialty Stores|,NA
+Stock|Consumer Services|Other Specialty Stores,NA
 Stock|Consumer Services|Other Specialty Stores|1-800-FLOWERS.COM Inc. Common Stock(FLWS),FLWS
 Stock|Consumer Services|Other Specialty Stores|Academy Sports and Outdoors Inc. Common Stock(ASO),ASO
 Stock|Consumer Services|Other Specialty Stores|Advance Auto Parts Inc Advance Auto Parts Inc W/I(AAP),AAP
@@ -1630,9 +1630,9 @@ Stock|Consumer Services|Other Specialty Stores|Ulta Beauty Inc. Common Stock(ULT
 Stock|Consumer Services|Other Specialty Stores|Winmark Corporation Common Stock(WINA),WINA
 Stock|Consumer Services|Other Specialty Stores|Yunji Inc. American Depository Shares(YJ),YJ
 Stock|Consumer Services|Other Specialty Stores|ZAGG Inc Common Stock (Delaware)(ZAGG),ZAGG
-Stock|Consumer Services|Paper|,NA
+Stock|Consumer Services|Paper,NA
 Stock|Consumer Services|Paper|Veritiv Corporation Common Stock(VRTV),VRTV
-Stock|Consumer Services|Professional Services|,NA
+Stock|Consumer Services|Professional Services,NA
 Stock|Consumer Services|Professional Services|ARC Document Solutions Inc. Common Stock(ARC),ARC
 Stock|Consumer Services|Professional Services|ATIF Holdings Limited Ordinary Shares(ATIF),ATIF
 Stock|Consumer Services|Professional Services|Apollo Medical Holdings Inc. Common Stock(AMEH),AMEH
@@ -1654,9 +1654,9 @@ Stock|Consumer Services|Professional Services|Mastech Digital Inc Common Stock(M
 Stock|Consumer Services|Professional Services|Montrose Environmental Group Inc. Common Stock(MEG),MEG
 Stock|Consumer Services|Professional Services|The RMR Group Inc. Class A Common Stock(RMR),RMR
 Stock|Consumer Services|Professional Services|Wilhelmina International Inc. Common Stock(WHLM),WHLM
-Stock|Consumer Services|Publishing|,NA
+Stock|Consumer Services|Publishing,NA
 Stock|Consumer Services|Publishing|Thomson Reuters Corp Ordinary Shares(TRI),TRI
-Stock|Consumer Services|RETAIL: Building Materials|,NA
+Stock|Consumer Services|RETAIL: Building Materials,NA
 Stock|Consumer Services|RETAIL: Building Materials|Aspen Aerogels Inc. Common Stock(ASPN),ASPN
 Stock|Consumer Services|RETAIL: Building Materials|Beacon Roofing Supply Inc. Common Stock(BECN),BECN
 Stock|Consumer Services|RETAIL: Building Materials|Boise Cascade L.L.C. Common Stock(BCC),BCC
@@ -1673,7 +1673,8 @@ Stock|Consumer Services|RETAIL: Building Materials|Lumber Liquidators Holdings I
 Stock|Consumer Services|RETAIL: Building Materials|SG Blocks Inc. Common Stock(SGBX),SGBX
 Stock|Consumer Services|RETAIL: Building Materials|Sherwin-Williams Company (The) Common Stock(SHW),SHW
 Stock|Consumer Services|RETAIL: Building Materials|Tractor Supply Company Common Stock(TSCO),TSCO
-Stock|Consumer Services|Real Estate Investment Trusts|,NA
+Stock|Consumer Services|Real Estate,NA
+Stock|Consumer Services|Real Estate Investment Trusts,NA
 Stock|Consumer Services|Real Estate Investment Trusts|AGNC Investment Corp. Common Stock(AGNC),AGNC
 Stock|Consumer Services|Real Estate Investment Trusts|AGNC Investment Corp. Depositary Shares Each Representing a 1/1000th Interest in a Share of 6.125% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock(AGNCP),AGNCP
 Stock|Consumer Services|Real Estate Investment Trusts|AGNC Investment Corp. Depositary Shares Each Representing a 1/1000th Interest in a Share of 7.00% Series C Fixed-To-Floating Rate Cumulative Redeemable Preferred Stock(AGNCN),AGNCN
@@ -1916,7 +1917,6 @@ Stock|Consumer Services|Real Estate Investment Trusts|Wheeler Real Estate Invest
 Stock|Consumer Services|Real Estate Investment Trusts|Wheeler Real Estate Investment Trust Inc. Series D Cumulative Preferred Stock(WHLRD),WHLRD
 Stock|Consumer Services|Real Estate Investment Trusts|Whitestone REIT Common Shares(WSR),WSR
 Stock|Consumer Services|Real Estate Investment Trusts|iStar Inc. Common Stock(STAR),STAR
-Stock|Consumer Services|Real Estate|,NA
 Stock|Consumer Services|Real Estate|Gladstone Commercial Corporation 6.625% Series E Cumulative Redeemable Preferred Stock(GOODN),GOODN
 Stock|Consumer Services|Real Estate|Gladstone Commercial Corporation Real Estate Investment Trust(GOOD),GOOD
 Stock|Consumer Services|Real Estate|Gladstone Commercial Corporation Series D Cumulative Redeemable Preferred Stock(GOODM),GOODM
@@ -1927,16 +1927,16 @@ Stock|Consumer Services|Real Estate|Landmark Infrastructure Partners LP Perpetua
 Stock|Consumer Services|Real Estate|Radius Global Infrastructure Inc. Class A Common Stock(RADI),RADI
 Stock|Consumer Services|Real Estate|Regional Health Properties Inc. Common Stock(RHE),RHE
 Stock|Consumer Services|Real Estate|Safehold Inc. Common Stock(SAFE),SAFE
-Stock|Consumer Services|Recreational Products/Toys|,NA
+Stock|Consumer Services|Recreational Products/Toys,NA
 Stock|Consumer Services|Recreational Products/Toys|Build-A-Bear Workshop Inc. Common Stock(BBW),BBW
 Stock|Consumer Services|Recreational Products/Toys|The Michaels Companies Inc. Common Stock(MIK),MIK
-Stock|Consumer Services|Rental/Leasing Companies|,NA
+Stock|Consumer Services|Rental/Leasing Companies,NA
 Stock|Consumer Services|Rental/Leasing Companies|Amerco Common Stock(UHAL),UHAL
 Stock|Consumer Services|Rental/Leasing Companies|Avis Budget Group Inc. Common Stock(CAR),CAR
 Stock|Consumer Services|Rental/Leasing Companies|HyreCar Inc. Common Stock(HYRE),HYRE
 Stock|Consumer Services|Rental/Leasing Companies|Ryder System Inc. Common Stock(R),R
 Stock|Consumer Services|Rental/Leasing Companies|SP Plus Corporation Common Stock(SP),SP
-Stock|Consumer Services|Restaurants|,NA
+Stock|Consumer Services|Restaurants,NA
 Stock|Consumer Services|Restaurants|Aramark Common Stock(ARMK),ARMK
 Stock|Consumer Services|Restaurants|Arcos Dorados Holdings Inc. Class A Shares(ARCO),ARCO
 Stock|Consumer Services|Restaurants|Ark Restaurants Corp. Common Stock(ARKR),ARKR
@@ -1990,7 +1990,7 @@ Stock|Consumer Services|Restaurants|Wendy's Company (The) Common Stock(WEN),WEN
 Stock|Consumer Services|Restaurants|Wingstop Inc. Common Stock(WING),WING
 Stock|Consumer Services|Restaurants|Yum China Holdings Inc. Common Stock(YUMC),YUMC
 Stock|Consumer Services|Restaurants|Yum! Brands Inc.(YUM),YUM
-Stock|Consumer Services|Services-Misc. Amusement & Recreation|,NA
+Stock|Consumer Services|Services-Misc. Amusement & Recreation,NA
 Stock|Consumer Services|Services-Misc. Amusement & Recreation|500.com Limited American Depositary Shares each representing 10 Class A shares(WBAI),WBAI
 Stock|Consumer Services|Services-Misc. Amusement & Recreation|Accel Entertainment Inc.(ACEL),ACEL
 Stock|Consumer Services|Services-Misc. Amusement & Recreation|Allied Esports Entertainment Inc. Common Stock(AESE),AESE
@@ -2022,7 +2022,7 @@ Stock|Consumer Services|Services-Misc. Amusement & Recreation|Super League Gamin
 Stock|Consumer Services|Services-Misc. Amusement & Recreation|Vail Resorts Inc. Common Stock(MTN),MTN
 Stock|Consumer Services|Services-Misc. Amusement & Recreation|Walt Disney Company (The) Common Stock(DIS),DIS
 Stock|Consumer Services|Services-Misc. Amusement & Recreation|Warner Music Group Corp. Class A Common Stock(WMG),WMG
-Stock|Consumer Services|Telecommunications Equipment|,NA
+Stock|Consumer Services|Telecommunications Equipment,NA
 Stock|Consumer Services|Telecommunications Equipment|AYRO Inc. Common Stock(AYRO),AYRO
 Stock|Consumer Services|Telecommunications Equipment|Boingo Wireless Inc. Common Stock(WIFI),WIFI
 Stock|Consumer Services|Telecommunications Equipment|Calix Inc Common Stock(CALX),CALX
@@ -2037,7 +2037,7 @@ Stock|Consumer Services|Telecommunications Equipment|ORBCOMM Inc. Common Stock(O
 Stock|Consumer Services|Telecommunications Equipment|Remark Holdings Inc. Common Stock(MARK),MARK
 Stock|Consumer Services|Telecommunications Equipment|RigNet Inc. Common Stock(RNET),RNET
 Stock|Consumer Services|Telecommunications Equipment|uCloudlink Group Inc. American Depositary Shares(UCL),UCL
-Stock|Consumer Services|Television Services|,NA
+Stock|Consumer Services|Television Services,NA
 Stock|Consumer Services|Television Services|AMC Networks Inc. Class A Common Stock(AMCX),AMCX
 Stock|Consumer Services|Television Services|Altice USA Inc. Class A Common Stock(ATUS),ATUS
 Stock|Consumer Services|Television Services|Cable One Inc. Common Stock(CABO),CABO
@@ -2059,7 +2059,7 @@ Stock|Consumer Services|Television Services|Rogers Communication Inc. Common Sto
 Stock|Consumer Services|Television Services|Roku Inc. Class A Common Stock(ROKU),ROKU
 Stock|Consumer Services|Television Services|Shaw Communications Inc. Common Stock(SJR),SJR
 Stock|Consumer Services|Television Services|WideOpenWest Inc. Common Stock(WOW),WOW
-Stock|Consumer Services|Transportation Services|,NA
+Stock|Consumer Services|Transportation Services,NA
 Stock|Consumer Services|Transportation Services|Booking Holdings Inc. Common Stock(BKNG),BKNG
 Stock|Consumer Services|Transportation Services|Daseke Inc. Common Stock(DSKE),DSKE
 Stock|Consumer Services|Transportation Services|Daseke Inc. Warrant(DSKEW),DSKEW
@@ -2079,7 +2079,7 @@ Stock|Consumer Services|Transportation Services|Virgin Galactic Holdings Inc. Co
 Stock|Consumer Services|Transportation Services|XPO Logistics Inc.(XPO),XPO
 Stock|Consumer Services|Transportation Services|Yatra Online Inc. Ordinary Shares(YTRA),YTRA
 Stock|Energy,NA
-Stock|Energy|Coal Mining|,NA
+Stock|Energy|Coal Mining,NA
 Stock|Energy|Coal Mining|Alliance Resource Partners L.P. Common Units representing Limited Partners Interests(ARLP),ARLP
 Stock|Energy|Coal Mining|Alpha Metallurgical Resources Inc. Common Stock(AMR),AMR
 Stock|Energy|Coal Mining|Arch Resources Inc. Class A Common Stock(ARCH),ARCH
@@ -2090,15 +2090,15 @@ Stock|Energy|Coal Mining|Natural Resource Partners LP Limited Partnership(NRP),N
 Stock|Energy|Coal Mining|Peabody Energy Corporation Common Stock(BTU),BTU
 Stock|Energy|Coal Mining|Ramaco Resources Inc. Common Stock(METC),METC
 Stock|Energy|Coal Mining|Warrior Met Coal Inc. Common Stock(HCC),HCC
-Stock|Energy|Consumer Electronics/Appliances|,NA
+Stock|Energy|Consumer Electronics/Appliances,NA
 Stock|Energy|Consumer Electronics/Appliances|Emerson Electric Company Common Stock(EMR),EMR
 Stock|Energy|Consumer Electronics/Appliances|General Electric Company Common Stock(GE),GE
 Stock|Energy|Consumer Electronics/Appliances|Otis Worldwide Corporation Common Stock(OTIS),OTIS
 Stock|Energy|Consumer Electronics/Appliances|Peloton Interactive Inc. Class A Common Stock(PTON),PTON
-Stock|Energy|Electric Utilities: Central|,NA
+Stock|Energy|Electric Utilities: Central,NA
 Stock|Energy|Electric Utilities: Central|Atlantic Power Corporation Ordinary Shares (Canada)(AT),AT
 Stock|Energy|Electric Utilities: Central|MGE Energy Inc(MGEE),MGEE
-Stock|Energy|Industrial Machinery/Components|,NA
+Stock|Energy|Industrial Machinery/Components,NA
 Stock|Energy|Industrial Machinery/Components|BWX Technologies Inc. Common Stock(BWXT),BWXT
 Stock|Energy|Industrial Machinery/Components|Ballard Power Systems Inc. Common Shares(BLDP),BLDP
 Stock|Energy|Industrial Machinery/Components|Bloom Energy Corporation Class A Common Stock(BE),BE
@@ -2114,7 +2114,7 @@ Stock|Energy|Industrial Machinery/Components|TPI Composites Inc. Common Stock(TP
 Stock|Energy|Industrial Machinery/Components|Thermon Group Holdings Inc. Common Stock(THR),THR
 Stock|Energy|Industrial Machinery/Components|Westport Fuel Systems Inc Common Shares(WPRT),WPRT
 Stock|Energy|Industrial Machinery/Components|Woodward Inc. Common Stock(WWD),WWD
-Stock|Energy|Integrated oil Companies|,NA
+Stock|Energy|Integrated oil Companies,NA
 Stock|Energy|Integrated oil Companies|BP Prudhoe Bay Royalty Trust Common Stock(BPT),BPT
 Stock|Energy|Integrated oil Companies|BP p.l.c. Common Stock(BP),BP
 Stock|Energy|Integrated oil Companies|Brooge Energy Limited Ordinary Shares(BROG),BROG
@@ -2139,7 +2139,7 @@ Stock|Energy|Integrated oil Companies|Trecora Resources Common Stock(TREC),TREC
 Stock|Energy|Integrated oil Companies|Valero Energy Corporation Common Stock(VLO),VLO
 Stock|Energy|Integrated oil Companies|Vertex Energy Inc Common Stock(VTNR),VTNR
 Stock|Energy|Integrated oil Companies|YPF Sociedad Anonima Common Stock(YPF),YPF
-Stock|Energy|Metal Fabrications|,NA
+Stock|Energy|Metal Fabrications,NA
 Stock|Energy|Metal Fabrications|Baker Hughes Company Class A Common Stock(BKR),BKR
 Stock|Energy|Metal Fabrications|Cactus Inc. Class A Common Stock(WHD),WHD
 Stock|Energy|Metal Fabrications|Dril-Quip Inc. Common Stock(DRQ),DRQ
@@ -2152,7 +2152,7 @@ Stock|Energy|Metal Fabrications|Profire Energy Inc. Common Stock(PFIE),PFIE
 Stock|Energy|Metal Fabrications|Solaris Oilfield Infrastructure Inc. Class A Common Stock(SOI),SOI
 Stock|Energy|Metal Fabrications|Superior Drilling Products Inc. Common Stock(SDPI),SDPI
 Stock|Energy|Metal Fabrications|TechnipFMC plc Ordinary Share(FTI),FTI
-Stock|Energy|Natural Gas Distribution|,NA
+Stock|Energy|Natural Gas Distribution,NA
 Stock|Energy|Natural Gas Distribution|BP Midstream Partners LP Common Units representing Limited Partner Interests(BPMP),BPMP
 Stock|Energy|Natural Gas Distribution|Blueknight Energy Partners L.P. Common Units(BKEP),BKEP
 Stock|Energy|Natural Gas Distribution|Blueknight Energy Partners L.P. L.L.C. Series A Preferred Units(BKEPP),BKEPP
@@ -2170,7 +2170,7 @@ Stock|Energy|Natural Gas Distribution|Phillips 66 Partners LP Common Units repre
 Stock|Energy|Natural Gas Distribution|Plains All American Pipeline L.P. Common Units representing Limited Partner Interests(PAA),PAA
 Stock|Energy|Natural Gas Distribution|Plains GP Holdings L.P. Class A Units representing Limited Partner Interests(PAGP),PAGP
 Stock|Energy|Natural Gas Distribution|Shell Midstream Partners L.P. Common Units representing Limited Partner Interests(SHLX),SHLX
-Stock|Energy|Oil & Gas Production|,NA
+Stock|Energy|Oil & Gas Production,NA
 Stock|Energy|Oil & Gas Production|Abraxas Petroleum Corporation Common Stock(AXAS),AXAS
 Stock|Energy|Oil & Gas Production|Amplify Energy Corp. Common Stock(AMPY),AMPY
 Stock|Energy|Oil & Gas Production|Antero Resources Corporation Common Stock(AR),AR
@@ -2292,7 +2292,7 @@ Stock|Energy|Oil & Gas Production|Viper Energy Partners LP Common Unit(VNOM),VNO
 Stock|Energy|Oil & Gas Production|Vista Oil & Gas S.A.B. de C.V. American Depositary Shares each representing one series A share with no par value(VIST),VIST
 Stock|Energy|Oil & Gas Production|W&T Offshore Inc. Common Stock(WTI),WTI
 Stock|Energy|Oil & Gas Production|Whiting Petroleum Corporation Common Stock (New)(WLL),WLL
-Stock|Energy|Oil Refining/Marketing|,NA
+Stock|Energy|Oil Refining/Marketing,NA
 Stock|Energy|Oil Refining/Marketing|Adams Resources & Energy Inc. Common Stock(AE),AE
 Stock|Energy|Oil Refining/Marketing|CrossAmerica Partners LP Common Units representing limited partner interests(CAPL),CAPL
 Stock|Energy|Oil Refining/Marketing|Global Partners LP Global Partners LP Common Units representing Limited Partner Interests(GLP),GLP
@@ -2301,7 +2301,7 @@ Stock|Energy|Oil Refining/Marketing|Martin Midstream Partners L.P. Limited Partn
 Stock|Energy|Oil Refining/Marketing|NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests(NGL),NGL
 Stock|Energy|Oil Refining/Marketing|Sprague Resources LP Common Units representing Limited Partner Interests(SRLP),SRLP
 Stock|Energy|Oil Refining/Marketing|World Fuel Services Corporation Common Stock(INT),INT
-Stock|Energy|Oilfield Services/Equipment|,NA
+Stock|Energy|Oilfield Services/Equipment,NA
 Stock|Energy|Oilfield Services/Equipment|CSI Compressco LP Common Units(CCLP),CCLP
 Stock|Energy|Oilfield Services/Equipment|Core Laboratories N.V. Common Stock(CLB),CLB
 Stock|Energy|Oilfield Services/Equipment|Enservco Corporation Common Stock(ENSV),ENSV
@@ -2330,14 +2330,14 @@ Stock|Energy|Oilfield Services/Equipment|Select Energy Services Inc. Class A Com
 Stock|Energy|Oilfield Services/Equipment|U.S. Well Services Inc. Class A Common Stock(USWS),USWS
 Stock|Energy|Oilfield Services/Equipment|U.S. Well Services Inc. Warrants(USWSW),USWSW
 Stock|Finance,NA
-Stock|Finance|Accident &Health Insurance|,NA
+Stock|Finance|Accident &Health Insurance,NA
 Stock|Finance|Accident &Health Insurance|AFLAC Incorporated Common Stock(AFL),AFL
 Stock|Finance|Accident &Health Insurance|CNO Financial Group Inc. Common Stock(CNO),CNO
 Stock|Finance|Accident &Health Insurance|Principal Financial Group Inc Common Stock(PFG),PFG
 Stock|Finance|Accident &Health Insurance|Triple-S Management Corporation Class B Common Stock(GTS),GTS
 Stock|Finance|Accident &Health Insurance|Unum Group 6.250% Junior Subordinated Notes due 2058(UNMA),UNMA
 Stock|Finance|Accident &Health Insurance|Unum Group Common Stock(UNM),UNM
-Stock|Finance|Banks|,NA
+Stock|Finance|Banks,NA
 Stock|Finance|Banks|1895 Bancorp of Wisconsin Inc. Common Stock(BCOW),BCOW
 Stock|Finance|Banks|Berkshire Hills Bancorp Inc. Common Stock(BHLB),BHLB
 Stock|Finance|Banks|Bogota Financial Corp. Common Stock(BSBK),BSBK
@@ -2355,7 +2355,7 @@ Stock|Finance|Banks|Rhinebeck Bancorp Inc. Common Stock(RBKB),RBKB
 Stock|Finance|Banks|Southern Missouri Bancorp Inc. Common Stock(SMBC),SMBC
 Stock|Finance|Banks|Timberland Bancorp Inc. Common Stock(TSBK),TSBK
 Stock|Finance|Banks|WVS Financial Corp. Common Stock(WVFC),WVFC
-Stock|Finance|Business Services|,NA
+Stock|Finance|Business Services,NA
 Stock|Finance|Business Services|10X Capital Venture Acquisition Corp Class A Common Stock(VCVC),VCVC
 Stock|Finance|Business Services|10X Capital Venture Acquisition Corp Unit(VCVCU),VCVCU
 Stock|Finance|Business Services|10X Capital Venture Acquisition Corp Warrant(VCVCW),VCVCW
@@ -2931,7 +2931,7 @@ Stock|Finance|Business Services|Zanite Acquisition Corp. Warrant(ZNTEW),ZNTEW
 Stock|Finance|Business Services|dMY Technology Group Inc. II Class A Common Stock(DMYD),DMYD
 Stock|Finance|Business Services|dMY Technology Group Inc. III Class A Common Stock(DMYI),DMYI
 Stock|Finance|Business Services|one Class A Ordinary Shares(AONE),AONE
-Stock|Finance|Commercial Banks|,NA
+Stock|Finance|Commercial Banks,NA
 Stock|Finance|Commercial Banks|BanColombia S.A. Common Stock(CIB),CIB
 Stock|Finance|Commercial Banks|Banco BBVA Argentina S.A. ADS(BBAR),BBAR
 Stock|Finance|Commercial Banks|Banco Bilbao Vizcaya Argentaria S.A. Common Stock(BBVA),BBVA
@@ -2966,25 +2966,25 @@ Stock|Finance|Commercial Banks|Sumitomo Mitsui Financial Group Inc Unsponsored A
 Stock|Finance|Commercial Banks|Toronto Dominion Bank (The) Common Stock(TD),TD
 Stock|Finance|Commercial Banks|Westpac Banking Corporation Common Stock(WBK),WBK
 Stock|Finance|Commercial Banks|Woori Financial Group Inc. American Depositary Shares (each representing three (3) shares of Common Stock)(WF),WF
-Stock|Finance|Diversified Commercial Services|,NA
+Stock|Finance|Diversified Commercial Services,NA
 Stock|Finance|Diversified Commercial Services|ABM Industries Incorporated Common Stock(ABM),ABM
 Stock|Finance|Diversified Commercial Services|Airbnb Inc. Class A Common Stock(ABNB),ABNB
 Stock|Finance|Diversified Commercial Services|Rollins Inc. Common Stock(ROL),ROL
 Stock|Finance|Diversified Commercial Services|frontdoor inc. Common Stock(FTDR),FTDR
-Stock|Finance|Diversified Financial Services|,NA
+Stock|Finance|Diversified Financial Services,NA
 Stock|Finance|Diversified Financial Services|National Rural Utilities Cooperative Finance Corporation 5.500% Subordinated Notes due 2064 (Subordinated Deferrable Interest Notes)(NRUC),NRUC
 Stock|Finance|Diversified Financial Services|Orix Corp Ads Common Stock(IX),IX
 Stock|Finance|Diversified Financial Services|SWK Holdings Corporation Common Stock(SWKH),SWKH
-Stock|Finance|Finance Companies|,NA
+Stock|Finance|Finance Companies,NA
 Stock|Finance|Finance Companies|Encore Capital Group Inc Common Stock(ECPG),ECPG
 Stock|Finance|Finance Companies|Federal Agricultural Mortgage Corporation Common Stock(AGM),AGM
 Stock|Finance|Finance Companies|Nicholas Financial Inc. Common Stock(NICK),NICK
 Stock|Finance|Finance Companies|Plumas Bancorp(PLBC),PLBC
-Stock|Finance|Finance/Investors Services|,NA
+Stock|Finance|Finance/Investors Services,NA
 Stock|Finance|Finance/Investors Services|180 Degree Capital Corp. Common Stock(TURN),TURN
 Stock|Finance|Finance/Investors Services|Dragon Victory International Limited Ordinary Shares(LYL),LYL
 Stock|Finance|Finance/Investors Services|Safeguard Scientifics Inc. New Common Stock(SFE),SFE
-Stock|Finance|Finance: Consumer Services|,NA
+Stock|Finance|Finance: Consumer Services,NA
 Stock|Finance|Finance: Consumer Services|360 DigiTech Inc. American Depositary Shares(QFIN),QFIN
 Stock|Finance|Finance: Consumer Services|9F Inc. American Depositary Shares(JFU),JFU
 Stock|Finance|Finance: Consumer Services|AMTD International Inc. American Depositary Shares each representing one Class A Ordinary Share(HKIB),HKIB
@@ -3061,7 +3061,7 @@ Stock|Finance|Finance: Consumer Services|World Acceptance Corporation Common Sto
 Stock|Finance|Finance: Consumer Services|Xiaobai Maimai Inc. ADR(HX),HX
 Stock|Finance|Finance: Consumer Services|Yiren Digital Ltd. American Depositary Shares each representing two ordinary shares(YRD),YRD
 Stock|Finance|Finance: Consumer Services|loanDepot Inc. Class A Common Stock(LDI),LDI
-Stock|Finance|Investment Bankers/Brokers/Service|,NA
+Stock|Finance|Investment Bankers/Brokers/Service,NA
 Stock|Finance|Investment Bankers/Brokers/Service|Associated Capital Group Inc. Common Stock(AC),AC
 Stock|Finance|Investment Bankers/Brokers/Service|BGC Partners Inc Class A Common Stock(BGCP),BGCP
 Stock|Finance|Investment Bankers/Brokers/Service|BlackRock Inc. Common Stock(BLK),BLK
@@ -3114,7 +3114,7 @@ Stock|Finance|Investment Bankers/Brokers/Service|Virtu Financial Inc. Class A Co
 Stock|Finance|Investment Bankers/Brokers/Service|Waddell & Reed Financial Inc. Common Stock(WDR),WDR
 Stock|Finance|Investment Bankers/Brokers/Service|WisdomTree Investments Inc. Common Stock(WETF),WETF
 Stock|Finance|Investment Bankers/Brokers/Service|XP Inc. Class A Common Stock(XP),XP
-Stock|Finance|Investment Managers|,NA
+Stock|Finance|Investment Managers,NA
 Stock|Finance|Investment Managers|Affiliated Managers Group Inc. 4.750% Junior Subordinated Notes due 2060(MGRB),MGRB
 Stock|Finance|Investment Managers|Affiliated Managers Group Inc. 5.875% Junior Subordinated Notes due 2059(MGR),MGR
 Stock|Finance|Investment Managers|Affiliated Managers Group Inc. Common Stock(AMG),AMG
@@ -3170,7 +3170,7 @@ Stock|Finance|Investment Managers|Victory Capital Holdings Inc. Class A Common S
 Stock|Finance|Investment Managers|Vinci Partners Investments Ltd. Class A Common Shares(VINP),VINP
 Stock|Finance|Investment Managers|Virtus Investment Partners Inc. Common Stock(VRTS),VRTS
 Stock|Finance|Investment Managers|Westwood Holdings Group Inc Common Stock(WHG),WHG
-Stock|Finance|Life Insurance|,NA
+Stock|Finance|Life Insurance,NA
 Stock|Finance|Life Insurance|AEGON N.V. Common Stock(AEG),AEG
 Stock|Finance|Life Insurance|AEGON N.V. Perp. Cap. Secs. Floating Rate (Netherlands)(AEB),AEB
 Stock|Finance|Life Insurance|Aegon Funding Company LLC 5.10% Subordinated Notes due 2049(AEFC),AEFC
@@ -3207,7 +3207,7 @@ Stock|Finance|Life Insurance|Reinsurance Group of America Incorporated Common St
 Stock|Finance|Life Insurance|Sun Life Financial Inc. Common Stock(SLF),SLF
 Stock|Finance|Life Insurance|Vericity Inc. Common Stock(VERY),VERY
 Stock|Finance|Life Insurance|Voya Financial Inc. Common Stock(VOYA),VOYA
-Stock|Finance|Major Banks|,NA
+Stock|Finance|Major Banks,NA
 Stock|Finance|Major Banks|1st Source Corporation Common Stock(SRCE),SRCE
 Stock|Finance|Major Banks|ACNB Corporation Common Stock(ACNB),ACNB
 Stock|Finance|Major Banks|Alerus Financial Corporation Common Stock(ALRS),ALRS
@@ -3571,7 +3571,7 @@ Stock|Finance|Major Banks|Zions Bancorporation N.A. Common Stock(ZION),ZION
 Stock|Finance|Major Banks|Zions Bancorporation N.A. Dep Shs Repstg 1/40th Int Sh Ser H Perp Pfd Stk(ZIONN),ZIONN
 Stock|Finance|Major Banks|Zions Bancorporation N.A. Dep Shs Repstg 1/40th Perp Pfd Ser G(ZIONO),ZIONO
 Stock|Finance|Major Banks|Zions Bancorporation N.A. Depositary Shares (Each representing 1/40th Interest in a Share of Series A Floating-Rate Non-Cumulative Perpetual Preferred Stock)(ZIONP),ZIONP
-Stock|Finance|Property-Casualty Insurers|,NA
+Stock|Finance|Property-Casualty Insurers,NA
 Stock|Finance|Property-Casualty Insurers|AMERISAFE Inc. Common Stock(AMSF),AMSF
 Stock|Finance|Property-Casualty Insurers|Alleghany Corporation Common Stock(Y),Y
 Stock|Finance|Property-Casualty Insurers|Allstate Corporation (The) Common Stock(ALL),ALL
@@ -3665,7 +3665,7 @@ Stock|Finance|Property-Casualty Insurers|United Insurance Holdings Corp. Common 
 Stock|Finance|Property-Casualty Insurers|W.R. Berkley Corporation Common Stock(WRB),WRB
 Stock|Finance|Property-Casualty Insurers|Watford Holdings Ltd. 8.5% Cumulative Redeemable Preference Shares(WTREP),WTREP
 Stock|Finance|Property-Casualty Insurers|White Mountains Insurance Group Ltd. Common Stock(WTM),WTM
-Stock|Finance|Real Estate|,NA
+Stock|Finance|Real Estate,NA
 Stock|Finance|Real Estate|Alset EHome International Inc. Common Stock(AEI),AEI
 Stock|Finance|Real Estate|Altisource Asset Management Corp Com(AAMC),AAMC
 Stock|Finance|Real Estate|American Realty Investors Inc. Common Stock(ARL),ARL
@@ -3725,7 +3725,7 @@ Stock|Finance|Real Estate|Tejon Ranch Co Common Stock(TRC),TRC
 Stock|Finance|Real Estate|Terreno Realty Corporation Common Stock(TRNO),TRNO
 Stock|Finance|Real Estate|Urban Edge Properties Common Shares of Beneficial Interest(UE),UE
 Stock|Finance|Real Estate|eXp World Holdings Inc. Common Stock(EXPI),EXPI
-Stock|Finance|Savings Institutions|,NA
+Stock|Finance|Savings Institutions,NA
 Stock|Finance|Savings Institutions|1st Constitution Bancorp (NJ) Common Stock(FCCY),FCCY
 Stock|Finance|Savings Institutions|Affinity Bancshares Inc. Common Stock (MD)(AFBI),AFBI
 Stock|Finance|Savings Institutions|Axos Financial Inc. 6.25% Subordinated Notes Due 2026(AXO),AXO
@@ -3784,7 +3784,7 @@ Stock|Finance|Savings Institutions|Territorial Bancorp Inc. Common Stock(TBNK),T
 Stock|Finance|Savings Institutions|Umpqua Holdings Corporation Common Stock(UMPQ),UMPQ
 Stock|Finance|Savings Institutions|Waterstone Financial Inc. Common Stock (MD)(WSBF),WSBF
 Stock|Finance|Savings Institutions|Western New England Bancorp Inc. Common Stock(WNEB),WNEB
-Stock|Finance|Specialty Insurers|,NA
+Stock|Finance|Specialty Insurers,NA
 Stock|Finance|Specialty Insurers|Aon plc Class A Ordinary Shares (Ireland)(AON),AON
 Stock|Finance|Specialty Insurers|Argo Group International Holdings Ltd. 6.5% Senior Notes Due 2042(ARGD),ARGD
 Stock|Finance|Specialty Insurers|Argo Group International Holdings Ltd.(ARGO),ARGO
@@ -3812,7 +3812,7 @@ Stock|Finance|Specialty Insurers|TIAN RUIXIANG Holdings Ltd Class A Ordinary Sha
 Stock|Finance|Specialty Insurers|Willis Towers Watson Public Limited Company Ordinary Shares(WLTW),WLTW
 Stock|Finance|Specialty Insurers|eHealth Inc. Common Stock(EHTH),EHTH
 Stock|Health Care,NA
-Stock|Health Care|Biotechnology: Biological Products (No Diagnostic Substances)|,NA
+Stock|Health Care|Biotechnology: Biological Products (No Diagnostic Substances),NA
 Stock|Health Care|Biotechnology: Biological Products (No Diagnostic Substances)|4D Molecular Therapeutics Inc. Common Stock(FDMT),FDMT
 Stock|Health Care|Biotechnology: Biological Products (No Diagnostic Substances)|ADMA Biologics Inc Common Stock(ADMA),ADMA
 Stock|Health Care|Biotechnology: Biological Products (No Diagnostic Substances)|AIM ImmunoTech Inc. Common Stock(AIM),AIM
@@ -3972,7 +3972,7 @@ Stock|Health Care|Biotechnology: Biological Products (No Diagnostic Substances)|
 Stock|Health Care|Biotechnology: Biological Products (No Diagnostic Substances)|argenx SE American Depositary Shares(ARGX),ARGX
 Stock|Health Care|Biotechnology: Biological Products (No Diagnostic Substances)|bluebird bio Inc. Common Stock(BLUE),BLUE
 Stock|Health Care|Biotechnology: Biological Products (No Diagnostic Substances)|iTeos Therapeutics Inc. Common Stock(ITOS),ITOS
-Stock|Health Care|Biotechnology: Commercial Physical & Biological Resarch|,NA
+Stock|Health Care|Biotechnology: Commercial Physical & Biological Resarch,NA
 Stock|Health Care|Biotechnology: Commercial Physical & Biological Resarch|AIkido Pharma Inc. Common Stock(AIKI),AIKI
 Stock|Health Care|Biotechnology: Commercial Physical & Biological Resarch|Anavex Life Sciences Corp. Common Stock(AVXL),AVXL
 Stock|Health Care|Biotechnology: Commercial Physical & Biological Resarch|Bioanalytical Systems Inc. Common Stock(BASI),BASI
@@ -3988,7 +3988,7 @@ Stock|Health Care|Biotechnology: Commercial Physical & Biological Resarch|Nation
 Stock|Health Care|Biotechnology: Commercial Physical & Biological Resarch|PPD Inc. Common Stock(PPD),PPD
 Stock|Health Care|Biotechnology: Commercial Physical & Biological Resarch|PRA Health Sciences Inc. Common Stock(PRAH),PRAH
 Stock|Health Care|Biotechnology: Commercial Physical & Biological Resarch|Syneos Health Inc. Class A Common Stock(SYNH),SYNH
-Stock|Health Care|Biotechnology: Electromedical & Electrotherapeutic Apparatus|,NA
+Stock|Health Care|Biotechnology: Electromedical & Electrotherapeutic Apparatus,NA
 Stock|Health Care|Biotechnology: Electromedical & Electrotherapeutic Apparatus|Axogen Inc. Common Stock(AXGN),AXGN
 Stock|Health Care|Biotechnology: Electromedical & Electrotherapeutic Apparatus|BioLife Solutions Inc. Common Stock(BLFS),BLFS
 Stock|Health Care|Biotechnology: Electromedical & Electrotherapeutic Apparatus|BioSig Technologies Inc. Common Stock(BSGM),BSGM
@@ -4020,7 +4020,7 @@ Stock|Health Care|Biotechnology: Electromedical & Electrotherapeutic Apparatus|V
 Stock|Health Care|Biotechnology: Electromedical & Electrotherapeutic Apparatus|Viveve Medical Inc. Common Stock(VIVE),VIVE
 Stock|Health Care|Biotechnology: Electromedical & Electrotherapeutic Apparatus|Zynex Inc. Common Stock(ZYXI),ZYXI
 Stock|Health Care|Biotechnology: Electromedical & Electrotherapeutic Apparatus|electroCore Inc. Common Stock(ECOR),ECOR
-Stock|Health Care|Biotechnology: In Vitro & In Vivo Diagnostic Substances|,NA
+Stock|Health Care|Biotechnology: In Vitro & In Vivo Diagnostic Substances,NA
 Stock|Health Care|Biotechnology: In Vitro & In Vivo Diagnostic Substances|ARCA biopharma Inc. Common Stock(ABIO),ABIO
 Stock|Health Care|Biotechnology: In Vitro & In Vivo Diagnostic Substances|Achieve Life Sciences Inc. Common Shares(ACHV),ACHV
 Stock|Health Care|Biotechnology: In Vitro & In Vivo Diagnostic Substances|Akers Biosciences Inc. Common Stock(AKER),AKER
@@ -4045,7 +4045,7 @@ Stock|Health Care|Biotechnology: In Vitro & In Vivo Diagnostic Substances|Quidel
 Stock|Health Care|Biotechnology: In Vitro & In Vivo Diagnostic Substances|Quotient Limited Ordinary Shares(QTNT),QTNT
 Stock|Health Care|Biotechnology: In Vitro & In Vivo Diagnostic Substances|Trinity Biotech plc American Depositary Shares(TRIB),TRIB
 Stock|Health Care|Biotechnology: In Vitro & In Vivo Diagnostic Substances|VolitionRX Limited Common Stock(VNRX),VNRX
-Stock|Health Care|Hospital/Nursing Management|,NA
+Stock|Health Care|Hospital/Nursing Management,NA
 Stock|Health Care|Hospital/Nursing Management|Brookdale Senior Living Inc. Common Stock(BKD),BKD
 Stock|Health Care|Hospital/Nursing Management|Capital Senior Living Corporation Common Stock(CSU),CSU
 Stock|Health Care|Hospital/Nursing Management|Community Health Systems Inc. Common Stock(CYH),CYH
@@ -4067,7 +4067,7 @@ Stock|Health Care|Hospital/Nursing Management|Surgery Partners Inc. Common Stock
 Stock|Health Care|Hospital/Nursing Management|Tenet Healthcare Corporation Common Stock(THC),THC
 Stock|Health Care|Hospital/Nursing Management|The Ensign Group Inc. Common Stock(ENSG),ENSG
 Stock|Health Care|Hospital/Nursing Management|Universal Health Services Inc. Common Stock(UHS),UHS
-Stock|Health Care|Industrial Specialties|,NA
+Stock|Health Care|Industrial Specialties,NA
 Stock|Health Care|Industrial Specialties|Align Technology Inc. Common Stock(ALGN),ALGN
 Stock|Health Care|Industrial Specialties|Allied Healthcare Products Inc. Common Stock(AHPI),AHPI
 Stock|Health Care|Industrial Specialties|Alpha Pro Tech Ltd. Common Stock(APT),APT
@@ -4092,7 +4092,7 @@ Stock|Health Care|Industrial Specialties|Sientra Inc. Common Stock(SIEN),SIEN
 Stock|Health Care|Industrial Specialties|Smith & Nephew SNATS Inc. Common Stock(SNN),SNN
 Stock|Health Care|Industrial Specialties|Surgalign Holdings Inc. Common Stock(SRGA),SRGA
 Stock|Health Care|Industrial Specialties|Zimmer Biomet Holdings Inc. Common Stock(ZBH),ZBH
-Stock|Health Care|Major Pharmaceuticals|,NA
+Stock|Health Care|Major Pharmaceuticals,NA
 Stock|Health Care|Major Pharmaceuticals|180 Life Sciences Corp. Common Stock(ATNF),ATNF
 Stock|Health Care|Major Pharmaceuticals|180 Life Sciences Corp. Warrant(ATNFW),ATNFW
 Stock|Health Care|Major Pharmaceuticals|89bio Inc. Common Stock(ETNB),ETNB
@@ -4671,14 +4671,14 @@ Stock|Health Care|Major Pharmaceuticals|iBio Inc. Common Stock(IBIO),IBIO
 Stock|Health Care|Major Pharmaceuticals|scPharmaceuticals Inc. Common Stock(SCPH),SCPH
 Stock|Health Care|Major Pharmaceuticals|uniQure N.V. Ordinary Shares(QURE),QURE
 Stock|Health Care|Major Pharmaceuticals|vTv Therapeutics Inc. Class A Common Stock(VTVT),VTVT
-Stock|Health Care|Medical Electronics|,NA
+Stock|Health Care|Medical Electronics,NA
 Stock|Health Care|Medical Electronics|Butterfly Network Inc. Class A Common Stock(BFLY),BFLY
 Stock|Health Care|Medical Electronics|Check-Cap Ltd. Ordinary Share(CHEK),CHEK
 Stock|Health Care|Medical Electronics|Check-Cap Ltd. Series C Warrant(CHEKZ),CHEKZ
 Stock|Health Care|Medical Electronics|Hologic Inc. Common Stock(HOLX),HOLX
 Stock|Health Care|Medical Electronics|Koninklijke Philips N.V. NY Registry Shares(PHG),PHG
 Stock|Health Care|Medical Electronics|NANO-X IMAGING LTD Ordinary Shares(NNOX),NNOX
-Stock|Health Care|Medical Specialities|,NA
+Stock|Health Care|Medical Specialities,NA
 Stock|Health Care|Medical Specialities|Acadia Healthcare Company Inc. Common Stock(ACHC),ACHC
 Stock|Health Care|Medical Specialities|Aesthetic Medical International Holdings Group Ltd. American Depositary Shares(AIH),AIH
 Stock|Health Care|Medical Specialities|Akumin Inc. Common Shares(AKU),AKU
@@ -4725,7 +4725,7 @@ Stock|Health Care|Medical Specialities|Trupanion Inc. Common Stock(TRUP),TRUP
 Stock|Health Care|Medical Specialities|UnitedHealth Group Incorporated Common Stock (DE)(UNH),UNH
 Stock|Health Care|Medical Specialities|Veracyte Inc. Common Stock(VCYT),VCYT
 Stock|Health Care|Medical Specialities|Viridian Therapeutics Inc. Common Stock(VRDN),VRDN
-Stock|Health Care|Medical/Dental Instruments|,NA
+Stock|Health Care|Medical/Dental Instruments,NA
 Stock|Health Care|Medical/Dental Instruments|3M Company Common Stock(MMM),MMM
 Stock|Health Care|Medical/Dental Instruments|ABIOMED Inc. Common Stock(ABMD),ABMD
 Stock|Health Care|Medical/Dental Instruments|Accuray Incorporated Common Stock(ARAY),ARAY
@@ -4850,7 +4850,7 @@ Stock|Health Care|Medical/Dental Instruments|Vivos Therapeutics Inc. Common Stoc
 Stock|Health Care|Medical/Dental Instruments|iCAD Inc. Common Stock(ICAD),ICAD
 Stock|Health Care|Medical/Dental Instruments|iRadimed Corporation Common Stock(IRMD),IRMD
 Stock|Health Care|Medical/Dental Instruments|iRhythm Technologies Inc. Common Stock(IRTC),IRTC
-Stock|Health Care|Medical/Nursing Services|,NA
+Stock|Health Care|Medical/Nursing Services,NA
 Stock|Health Care|Medical/Nursing Services|111 Inc. American Depositary Shares(YI),YI
 Stock|Health Care|Medical/Nursing Services|1Life Healthcare Inc. Common Stock(ONEM),ONEM
 Stock|Health Care|Medical/Nursing Services|AdaptHealth Corp. Class A Common Stock(AHCO),AHCO
@@ -4878,7 +4878,7 @@ Stock|Health Care|Medical/Nursing Services|Teladoc Health Inc. Common Stock(TDOC
 Stock|Health Care|Medical/Nursing Services|The Pennant Group Inc. Common Stock(PNTG),PNTG
 Stock|Health Care|Medical/Nursing Services|U.S. Physical Therapy Inc. Common Stock(USPH),USPH
 Stock|Health Care|Medical/Nursing Services|Walgreens Boots Alliance Inc. Common Stock(WBA),WBA
-Stock|Health Care|Misc Health and Biotechnology Services|,NA
+Stock|Health Care|Misc Health and Biotechnology Services,NA
 Stock|Health Care|Misc Health and Biotechnology Services|Baudax Bio Inc. Common Stock(BXRX),BXRX
 Stock|Health Care|Misc Health and Biotechnology Services|Caladrius Biosciences Inc. Common Stock(CLBS),CLBS
 Stock|Health Care|Misc Health and Biotechnology Services|DaVita Inc. Common Stock(DVA),DVA
@@ -4896,12 +4896,12 @@ Stock|Health Care|Misc Health and Biotechnology Services|SOC Telemed Inc. Warran
 Stock|Health Care|Misc Health and Biotechnology Services|Sotera Health Company Common Stock(SHC),SHC
 Stock|Health Care|Misc Health and Biotechnology Services|Tivity Health Inc. Common Stock(TVTY),TVTY
 Stock|Health Care|Misc Health and Biotechnology Services|Viemed Healthcare Inc. Common Shares(VMD),VMD
-Stock|Health Care|Ophthalmic Goods|,NA
+Stock|Health Care|Ophthalmic Goods,NA
 Stock|Health Care|Ophthalmic Goods|Alcon Inc. Ordinary Shares(ALC),ALC
 Stock|Health Care|Ophthalmic Goods|National Vision Holdings Inc. Common Stock(EYE),EYE
 Stock|Health Care|Ophthalmic Goods|STAAR Surgical Company Common Stock(STAA),STAA
 Stock|Health Care|Ophthalmic Goods|The Cooper Companies Inc. Common Stock(COO),COO
-Stock|Health Care|Other Pharmaceuticals|,NA
+Stock|Health Care|Other Pharmaceuticals,NA
 Stock|Health Care|Other Pharmaceuticals|AmerisourceBergen Corporation Common Stock(ABC),ABC
 Stock|Health Care|Other Pharmaceuticals|Cardinal Health Inc. Common Stock(CAH),CAH
 Stock|Health Care|Other Pharmaceuticals|Herbalife Nutrition Ltd. Common Stock(HLF),HLF
@@ -4909,10 +4909,10 @@ Stock|Health Care|Other Pharmaceuticals|McKesson Corporation Common Stock(MCK),M
 Stock|Health Care|Other Pharmaceuticals|Nu Skin Enterprises Inc. Common Stock(NUS),NUS
 Stock|Health Care|Other Pharmaceuticals|PetIQ Inc. Class A Common Stock(PETQ),PETQ
 Stock|Health Care|Other Pharmaceuticals|Trxade Group Inc. Common Stock(MEDS),MEDS
-Stock|Health Care|Precision Instruments|,NA
+Stock|Health Care|Precision Instruments,NA
 Stock|Health Care|Precision Instruments|NeoGenomics Inc. Common Stock(NEO),NEO
 Stock|Miscellaneous,NA
-Stock|Miscellaneous|Business Services|,NA
+Stock|Miscellaneous|Business Services,NA
 Stock|Miscellaneous|Business Services|36Kr Holdings Inc. American Depositary Shares(KRKR),KRKR
 Stock|Miscellaneous|Business Services|ALJ Regional Holdings Inc. Common Stock(ALJJ),ALJJ
 Stock|Miscellaneous|Business Services|Accenture plc Class A Ordinary Shares (Ireland)(ACN),ACN
@@ -5038,7 +5038,7 @@ Stock|Miscellaneous|Business Services|comScore Inc. Common Stock(SCOR),SCOR
 Stock|Miscellaneous|Business Services|eBay Inc. 6.0% Notes Due 2056(EBAYL),EBAYL
 Stock|Miscellaneous|Business Services|eBay Inc. Common Stock(EBAY),EBAY
 Stock|Miscellaneous|Business Services|i3 Verticals Inc. Class A Common Stock(IIIV),IIIV
-Stock|Miscellaneous|Industrial Machinery/Components|,NA
+Stock|Miscellaneous|Industrial Machinery/Components,NA
 Stock|Miscellaneous|Industrial Machinery/Components|Advent Technologies Holdings Inc. Class A Common Stock(ADN),ADN
 Stock|Miscellaneous|Industrial Machinery/Components|Advent Technologies Holdings Inc. Warrant(ADNWW),ADNWW
 Stock|Miscellaneous|Industrial Machinery/Components|Atkore Inc. Common Stock(ATKR),ATKR
@@ -5063,7 +5063,7 @@ Stock|Miscellaneous|Industrial Machinery/Components|QuantumScape Corporation Cla
 Stock|Miscellaneous|Industrial Machinery/Components|Spectrum Brands Holdings Inc. Common Stock(SPB),SPB
 Stock|Miscellaneous|Industrial Machinery/Components|Star Peak Energy Transition Corp. Class A Common Stock(STPK),STPK
 Stock|Miscellaneous|Industrial Machinery/Components|Ultralife Corporation Common Stock(ULBI),ULBI
-Stock|Miscellaneous|Multi-Sector Companies|,NA
+Stock|Miscellaneous|Multi-Sector Companies,NA
 Stock|Miscellaneous|Multi-Sector Companies|Acacia Research Corporation (Acacia Tech) Common Stock(ACTG),ACTG
 Stock|Miscellaneous|Multi-Sector Companies|Digital Turbine Inc. Common Stock(APPS),APPS
 Stock|Miscellaneous|Multi-Sector Companies|Dolby Laboratories Common Stock(DLB),DLB
@@ -5074,22 +5074,22 @@ Stock|Miscellaneous|Multi-Sector Companies|Research Frontiers Incorporated Commo
 Stock|Miscellaneous|Multi-Sector Companies|The Joint Corp. Common Stock(JYNT),JYNT
 Stock|Miscellaneous|Multi-Sector Companies|VirnetX Holding Corp Common Stock(VHC),VHC
 Stock|Miscellaneous|Multi-Sector Companies|Xcel Brands Inc. Common Stock(XELB),XELB
-Stock|Miscellaneous|Office Equipment/Supplies/Services|,NA
+Stock|Miscellaneous|Office Equipment/Supplies/Services,NA
 Stock|Miscellaneous|Office Equipment/Supplies/Services|Diebold Nixdorf Incorporated Common Stock(DBD),DBD
 Stock|Miscellaneous|Office Equipment/Supplies/Services|NCR Corporation Common Stock(NCR),NCR
 Stock|Miscellaneous|Office Equipment/Supplies/Services|PAR Technology Corporation Common Stock(PAR),PAR
 Stock|Miscellaneous|Office Equipment/Supplies/Services|Pitney Bowes Inc. Common Stock(PBI),PBI
 Stock|Miscellaneous|Office Equipment/Supplies/Services|USA Technologies Inc. Common Stock(USAT),USAT
-Stock|Miscellaneous|Other Consumer Services|,NA
+Stock|Miscellaneous|Other Consumer Services,NA
 Stock|Miscellaneous|Other Consumer Services|Bright Horizons Family Solutions Inc. Common Stock(BFAM),BFAM
 Stock|Miscellaneous|Other Consumer Services|CRA International Inc. Common Stock(CRAI),CRAI
-Stock|Miscellaneous|Publishing|,NA
+Stock|Miscellaneous|Publishing,NA
 Stock|Miscellaneous|Publishing|Cimpress plc Ordinary Shares (Ireland)(CMPR),CMPR
 Stock|Miscellaneous|Publishing|Issuer Direct Corporation Common Stock(ISDR),ISDR
 Stock|Miscellaneous|Publishing|Quad Graphics Inc Class A Common Stock(QUAD),QUAD
 Stock|Miscellaneous|Publishing|R.R. Donnelley & Sons Company Common Stock(RRD),RRD
 Stock|Public Utilities,NA
-Stock|Public Utilities|Electric Utilities: Central|,NA
+Stock|Public Utilities|Electric Utilities: Central,NA
 Stock|Public Utilities|Electric Utilities: Central|Algonquin Power & Utilities Corp. 6.20% Fixed-to-Floating Subordinated Notes Series 2019-A due July 1 2079(AQNB),AQNB
 Stock|Public Utilities|Electric Utilities: Central|Algonquin Power & Utilities Corp. 6.875% Fixed-to-Floating Rate Subordinated Notes Series 2018-A due October 17 2078(AQNA),AQNA
 Stock|Public Utilities|Electric Utilities: Central|Algonquin Power & Utilities Corp. Common Shares(AQN),AQN
@@ -5158,7 +5158,7 @@ Stock|Public Utilities|Electric Utilities: Central|Tennessee Valley Authority Co
 Stock|Public Utilities|Electric Utilities: Central|Tennessee Valley Authority(TVE),TVE
 Stock|Public Utilities|Electric Utilities: Central|TransAlta Corporation Ordinary Shares(TAC),TAC
 Stock|Public Utilities|Electric Utilities: Central|Vistra Corp. Common Stock(VST),VST
-Stock|Public Utilities|Environmental Services|,NA
+Stock|Public Utilities|Environmental Services,NA
 Stock|Public Utilities|Environmental Services|Avalon Holdings Corporation Common Stock(AWX),AWX
 Stock|Public Utilities|Environmental Services|Casella Waste Systems Inc. Class A Common Stock(CWST),CWST
 Stock|Public Utilities|Environmental Services|GFL Environmental Inc. Subordinate voting shares no par value(GFL),GFL
@@ -5168,7 +5168,7 @@ Stock|Public Utilities|Environmental Services|US Ecology Inc Common Stock(ECOL),
 Stock|Public Utilities|Environmental Services|US Ecology Inc. Warrant(ECOLW),ECOLW
 Stock|Public Utilities|Environmental Services|Waste Connections Inc. Common Shares(WCN),WCN
 Stock|Public Utilities|Environmental Services|Waste Management Inc. Common Stock(WM),WM
-Stock|Public Utilities|Natural Gas Distribution|,NA
+Stock|Public Utilities|Natural Gas Distribution,NA
 Stock|Public Utilities|Natural Gas Distribution|Altus Midstream Company Class A Common Stock(ALTM),ALTM
 Stock|Public Utilities|Natural Gas Distribution|Antero Midstream Corporation Common Stock(AM),AM
 Stock|Public Utilities|Natural Gas Distribution|Archrock Inc. Common Stock(AROC),AROC
@@ -5199,7 +5199,7 @@ Stock|Public Utilities|Natural Gas Distribution|UGI Corporation Common Stock(UGI
 Stock|Public Utilities|Natural Gas Distribution|USA Compression Partners LP Common Units Representing Limited Partner Interests(USAC),USAC
 Stock|Public Utilities|Natural Gas Distribution|Western Midstream Partners LP Common Units Representing Limited Partner Interests(WES),WES
 Stock|Public Utilities|Natural Gas Distribution|Williams Companies Inc. (The) Common Stock(WMB),WMB
-Stock|Public Utilities|Oil & Gas Production|,NA
+Stock|Public Utilities|Oil & Gas Production,NA
 Stock|Public Utilities|Oil & Gas Production|Brookfield Infrastructure Partners LP Class A Subordinate Voting Shares(BIPC),BIPC
 Stock|Public Utilities|Oil & Gas Production|Chesapeake Utilities Corporation Common Stock(CPK),CPK
 Stock|Public Utilities|Oil & Gas Production|Crestwood Equity Partners LP(CEQP),CEQP
@@ -5207,7 +5207,7 @@ Stock|Public Utilities|Oil & Gas Production|NextDecade Corporation Common Stock(
 Stock|Public Utilities|Oil & Gas Production|ONEOK Inc. Common Stock(OKE),OKE
 Stock|Public Utilities|Oil & Gas Production|RGC Resources Inc. Common Stock(RGCO),RGCO
 Stock|Public Utilities|Oil & Gas Production|Southwest Gas Holdings Inc. Common Stock (DE)(SWX),SWX
-Stock|Public Utilities|Oil/Gas Transmission|,NA
+Stock|Public Utilities|Oil/Gas Transmission,NA
 Stock|Public Utilities|Oil/Gas Transmission|Atmos Energy Corporation Common Stock(ATO),ATO
 Stock|Public Utilities|Oil/Gas Transmission|Cheniere Energy Inc. Common Stock(LNG),LNG
 Stock|Public Utilities|Oil/Gas Transmission|Cheniere Energy Partners LP Cheniere Energy Partners LP Common Units(CQP),CQP
@@ -5222,7 +5222,7 @@ Stock|Public Utilities|Oil/Gas Transmission|South Jersey Industries Inc. Common 
 Stock|Public Utilities|Oil/Gas Transmission|South Jersey Industries Inc. Corporate Units(SJIU),SJIU
 Stock|Public Utilities|Oil/Gas Transmission|Spire Inc. Common Stock(SR),SR
 Stock|Public Utilities|Oil/Gas Transmission|Ultrapar Participacoes S.A. (New) American Depositary Shares (Each representing one Common Share)(UGP),UGP
-Stock|Public Utilities|Power Generation|,NA
+Stock|Public Utilities|Power Generation,NA
 Stock|Public Utilities|Power Generation|Allete Inc.(ALE),ALE
 Stock|Public Utilities|Power Generation|Alliant Energy Corporation Common Stock(LNT),LNT
 Stock|Public Utilities|Power Generation|Ameren Corporation Common Stock(AEE),AEE
@@ -5256,7 +5256,7 @@ Stock|Public Utilities|Power Generation|UNITIL Corporation Common Stock(UTL),UTL
 Stock|Public Utilities|Power Generation|VivoPower International PLC Ordinary Shares(VVPR),VVPR
 Stock|Public Utilities|Power Generation|WEC Energy Group Inc. Common Stock(WEC),WEC
 Stock|Public Utilities|Power Generation|Xcel Energy Inc. Common Stock(XEL),XEL
-Stock|Public Utilities|Telecommunications Equipment|,NA
+Stock|Public Utilities|Telecommunications Equipment,NA
 Stock|Public Utilities|Telecommunications Equipment|ADTRAN Inc. Common Stock(ADTN),ADTN
 Stock|Public Utilities|Telecommunications Equipment|AT&T Inc. 5.350% Global Notes due 2066(TBB),TBB
 Stock|Public Utilities|Telecommunications Equipment|AT&T Inc. 5.625% Global Notes due 2067(TBC),TBC
@@ -5328,7 +5328,7 @@ Stock|Public Utilities|Telecommunications Equipment|VEON Ltd. ADS(VEON),VEON
 Stock|Public Utilities|Telecommunications Equipment|Verizon Communications Inc. Common Stock(VZ),VZ
 Stock|Public Utilities|Telecommunications Equipment|Vodafone Group Plc American Depositary Shares(VOD),VOD
 Stock|Public Utilities|Telecommunications Equipment|Vonage Holdings Corp. Common Stock(VG),VG
-Stock|Public Utilities|Water Supply|,NA
+Stock|Public Utilities|Water Supply,NA
 Stock|Public Utilities|Water Supply|American States Water Company Common Stock(AWR),AWR
 Stock|Public Utilities|Water Supply|American Water Works Company Inc. Common Stock(AWK),AWK
 Stock|Public Utilities|Water Supply|Artesian Resources Corporation Class A Common Stock(ARTNA),ARTNA
@@ -5344,7 +5344,7 @@ Stock|Public Utilities|Water Supply|Pure Cycle Corporation Common Stock(PCYO),PC
 Stock|Public Utilities|Water Supply|SJW Group Common Stock (DE)(SJW),SJW
 Stock|Public Utilities|Water Supply|York Water Company (The) Common Stock(YORW),YORW
 Stock|Technology,NA
-Stock|Technology|Advertising|,NA
+Stock|Technology|Advertising,NA
 Stock|Technology|Advertising|AirNet Technology Inc. American Depositary Shares(ANTE),ANTE
 Stock|Technology|Advertising|Criteo S.A. American Depositary Shares(CRTO),CRTO
 Stock|Technology|Advertising|Groupon Inc. Common Stock(GRPN),GRPN
@@ -5354,7 +5354,7 @@ Stock|Technology|Advertising|Omnicom Group Inc. Common Stock(OMC),OMC
 Stock|Technology|Advertising|PARTS iD Inc. Class A Common Stock(ID),ID
 Stock|Technology|Advertising|SRAX Inc. Class A Common Stock(SRAX),SRAX
 Stock|Technology|Advertising|WPP plc American Depositary Shares(WPP),WPP
-Stock|Technology|Computer Communications Equipment|,NA
+Stock|Technology|Computer Communications Equipment,NA
 Stock|Technology|Computer Communications Equipment|A10 Networks Inc. Common Stock(ATEN),ATEN
 Stock|Technology|Computer Communications Equipment|Allot Ltd. Ordinary Shares(ALLT),ALLT
 Stock|Technology|Computer Communications Equipment|Arista Networks Inc. Common Stock(ANET),ANET
@@ -5368,7 +5368,7 @@ Stock|Technology|Computer Communications Equipment|Intrusion Inc. Common Stock(I
 Stock|Technology|Computer Communications Equipment|Juniper Networks Inc. Common Stock(JNPR),JNPR
 Stock|Technology|Computer Communications Equipment|Lantronix Inc. Common Stock(LTRX),LTRX
 Stock|Technology|Computer Communications Equipment|Silicom Ltd Ordinary Shares(SILC),SILC
-Stock|Technology|Computer Manufacturing|,NA
+Stock|Technology|Computer Manufacturing,NA
 Stock|Technology|Computer Manufacturing|Apple Inc. Common Stock(AAPL),AAPL
 Stock|Technology|Computer Manufacturing|Dell Technologies Inc. Class C Common Stock(DELL),DELL
 Stock|Technology|Computer Manufacturing|HP Inc. Common Stock(HPQ),HPQ
@@ -5378,7 +5378,7 @@ Stock|Technology|Computer Manufacturing|Omnicell Inc. Common Stock ($0.001 par v
 Stock|Technology|Computer Manufacturing|One Stop Systems Inc. Common Stock(OSS),OSS
 Stock|Technology|Computer Manufacturing|Socket Mobile Inc. Common Stock(SCKT),SCKT
 Stock|Technology|Computer Manufacturing|Super Micro Computer Inc. Common Stock(SMCI),SMCI
-Stock|Technology|Computer Software: Prepackaged Software|,NA
+Stock|Technology|Computer Software: Prepackaged Software,NA
 Stock|Technology|Computer Software: Prepackaged Software|2U Inc. Common Stock(TWOU),TWOU
 Stock|Technology|Computer Software: Prepackaged Software|3D Systems Corporation Common Stock(DDD),DDD
 Stock|Technology|Computer Software: Prepackaged Software|ACI Worldwide Inc. Common Stock(ACIW),ACIW
@@ -5573,7 +5573,7 @@ Stock|Technology|Computer Software: Prepackaged Software|Zuora Inc. Class A Comm
 Stock|Technology|Computer Software: Prepackaged Software|eGain Corporation Common Stock(EGAN),EGAN
 Stock|Technology|Computer Software: Prepackaged Software|iClick Interactive Asia Group Limited American Depositary Shares(ICLK),ICLK
 Stock|Technology|Computer Software: Prepackaged Software|nCino Inc. Common Stock(NCNO),NCNO
-Stock|Technology|Computer Software: Programming Data Processing|,NA
+Stock|Technology|Computer Software: Programming Data Processing,NA
 Stock|Technology|Computer Software: Programming Data Processing|21Vianet Group Inc. American Depositary Shares(VNET),VNET
 Stock|Technology|Computer Software: Programming Data Processing|Alithya Group inc. Class A Subordinate Voting Shares(ALYA),ALYA
 Stock|Technology|Computer Software: Programming Data Processing|Alphabet Inc. Class A Common Stock(GOOGL),GOOGL
@@ -5634,7 +5634,7 @@ Stock|Technology|Computer Software: Programming Data Processing|Wix.com Ltd. Ord
 Stock|Technology|Computer Software: Programming Data Processing|Yandex N.V. Class A Ordinary Shares(YNDX),YNDX
 Stock|Technology|Computer Software: Programming Data Processing|ZW Data Action Technologies Inc. Common Stock(CNET),CNET
 Stock|Technology|Computer Software: Programming Data Processing|Zoom Video Communications Inc. Class A Common Stock(ZM),ZM
-Stock|Technology|Computer peripheral equipment|,NA
+Stock|Technology|Computer peripheral equipment,NA
 Stock|Technology|Computer peripheral equipment|AstroNova Inc. Common Stock(ALOT),ALOT
 Stock|Technology|Computer peripheral equipment|Corsair Gaming Inc. Common Stock(CRSR),CRSR
 Stock|Technology|Computer peripheral equipment|FireEye Inc. Common Stock(FEYE),FEYE
@@ -5648,7 +5648,7 @@ Stock|Technology|Computer peripheral equipment|Radcom Ltd. Ordinary Shares(RDCM)
 Stock|Technology|Computer peripheral equipment|Stratasys Ltd. Ordinary Shares (Israel)(SSYS),SSYS
 Stock|Technology|Computer peripheral equipment|TransAct Technologies Incorporated Common Stock(TACT),TACT
 Stock|Technology|Computer peripheral equipment|Xerox Holdings Corporation Common Stock(XRX),XRX
-Stock|Technology|Diversified Commercial Services|,NA
+Stock|Technology|Diversified Commercial Services,NA
 Stock|Technology|Diversified Commercial Services|51job Inc. American Depositary Shares(JOBS),JOBS
 Stock|Technology|Diversified Commercial Services|Aarons Holdings Company Inc. Common Stock(AAN),AAN
 Stock|Technology|Diversified Commercial Services|AerCap Holdings N.V. Ordinary Shares(AER),AER
@@ -5675,7 +5675,7 @@ Stock|Technology|Diversified Commercial Services|ShiftPixy Inc. Common Stock(PIX
 Stock|Technology|Diversified Commercial Services|Textainer Group Holdings Limited Common Shares(TGH),TGH
 Stock|Technology|Diversified Commercial Services|Triton International Limited Common Shares(TRTN),TRTN
 Stock|Technology|Diversified Commercial Services|United Rentals Inc. Common Stock(URI),URI
-Stock|Technology|EDP Services|,NA
+Stock|Technology|EDP Services,NA
 Stock|Technology|EDP Services|8x8 Inc Common Stock(EGHT),EGHT
 Stock|Technology|EDP Services|AGM Group Holdings Inc. Class A Ordinary Shares(AGMH),AGMH
 Stock|Technology|EDP Services|Agilysys Inc. Common Stock(AGYS),AGYS
@@ -5824,7 +5824,7 @@ Stock|Technology|EDP Services|Zix Corporation Common Stock(ZIXI),ZIXI
 Stock|Technology|EDP Services|Zscaler Inc. Common Stock(ZS),ZS
 Stock|Technology|EDP Services|Zynga Inc. Class A Common Stock(ZNGA),ZNGA
 Stock|Technology|EDP Services|trivago N.V. American Depositary Shares(TRVG),TRVG
-Stock|Technology|Electrical Products|,NA
+Stock|Technology|Electrical Products,NA
 Stock|Technology|Electrical Products|Benchmark Electronics Inc. Common Stock(BHE),BHE
 Stock|Technology|Electrical Products|CTS Corporation Common Stock(CTS),CTS
 Stock|Technology|Electrical Products|Celestica Inc. Common Stock(CLS),CLS
@@ -5840,7 +5840,7 @@ Stock|Technology|Electrical Products|SMTC Corporation Common Stock(SMTX),SMTX
 Stock|Technology|Electrical Products|Sanmina Corporation Common Stock(SANM),SANM
 Stock|Technology|Electrical Products|SigmaTron International Inc. Common Stock(SGMA),SGMA
 Stock|Technology|Electrical Products|TTM Technologies Inc. Common Stock(TTMI),TTMI
-Stock|Technology|Electronic Components|,NA
+Stock|Technology|Electronic Components,NA
 Stock|Technology|Electronic Components|Arrow Electronics Inc. Common Stock(ARW),ARW
 Stock|Technology|Electronic Components|Avnet Inc. Common Stock(AVT),AVT
 Stock|Technology|Electronic Components|India Globalization Capital Inc. Common Stock(IGC),IGC
@@ -5858,7 +5858,7 @@ Stock|Technology|Electronic Components|Taitron Components Incorporated Class A C
 Stock|Technology|Electronic Components|Universal Security Instruments Inc. Common Stock(UUU),UUU
 Stock|Technology|Electronic Components|VOXX International Corporation Class A Common Stock(VOXX),VOXX
 Stock|Technology|Electronic Components|Western Digital Corporation Common Stock(WDC),WDC
-Stock|Technology|Industrial Machinery/Components|,NA
+Stock|Technology|Industrial Machinery/Components,NA
 Stock|Technology|Industrial Machinery/Components|ACM Research Inc. Class A Common Stock(ACMR),ACMR
 Stock|Technology|Industrial Machinery/Components|ASML Holding N.V. New York Registry Shares(ASML),ASML
 Stock|Technology|Industrial Machinery/Components|Amtech Systems Inc. Common Stock(ASYS),ASYS
@@ -5900,7 +5900,7 @@ Stock|Technology|Industrial Machinery/Components|Veeco Instruments Inc. Common S
 Stock|Technology|Industrial Machinery/Components|Welbilt Inc. Common Stock(WBT),WBT
 Stock|Technology|Industrial Machinery/Components|Zebra Technologies Corporation Class A Common Stock(ZBRA),ZBRA
 Stock|Technology|Industrial Machinery/Components|nVent Electric plc Ordinary Shares(NVT),NVT
-Stock|Technology|Professional Services|,NA
+Stock|Technology|Professional Services,NA
 Stock|Technology|Professional Services|AMN Healthcare Services Inc AMN Healthcare Services Inc(AMN),AMN
 Stock|Technology|Professional Services|ASGN Incorporated Common Stock(ASGN),ASGN
 Stock|Technology|Professional Services|BGSF Inc. Common Stock(BGSF),BGSF
@@ -5922,7 +5922,7 @@ Stock|Technology|Professional Services|StarTek Inc. Common Stock(SRT),SRT
 Stock|Technology|Professional Services|TTEC Holdings Inc. Common Stock(TTEC),TTEC
 Stock|Technology|Professional Services|TrueBlue Inc. Common Stock(TBI),TBI
 Stock|Technology|Professional Services|Volt Information Sciences Inc. Common Stock(VOLT),VOLT
-Stock|Technology|Radio And Television Broadcasting And Communications Equipment|,NA
+Stock|Technology|Radio And Television Broadcasting And Communications Equipment,NA
 Stock|Technology|Radio And Television Broadcasting And Communications Equipment|Airgain Inc. Common Stock(AIRG),AIRG
 Stock|Technology|Radio And Television Broadcasting And Communications Equipment|Aviat Networks Inc. Common Stock(AVNW),AVNW
 Stock|Technology|Radio And Television Broadcasting And Communications Equipment|BK Technologies Corporation Common Stock(BKTI),BKTI
@@ -5952,13 +5952,13 @@ Stock|Technology|Radio And Television Broadcasting And Communications Equipment|
 Stock|Technology|Radio And Television Broadcasting And Communications Equipment|Ubiquiti Inc. Common Stock(UI),UI
 Stock|Technology|Radio And Television Broadcasting And Communications Equipment|ViaSat Inc. Common Stock(VSAT),VSAT
 Stock|Technology|Radio And Television Broadcasting And Communications Equipment|Vuzix Corporation Common Stock(VUZI),VUZI
-Stock|Technology|Retail: Computer Software & Peripheral Equipment|,NA
+Stock|Technology|Retail: Computer Software & Peripheral Equipment,NA
 Stock|Technology|Retail: Computer Software & Peripheral Equipment|Hewlett Packard Enterprise Company Common Stock(HPE),HPE
 Stock|Technology|Retail: Computer Software & Peripheral Equipment|ScanSource Inc. Common Stock(SCSC),SCSC
 Stock|Technology|Retail: Computer Software & Peripheral Equipment|Synnex Corporation Common Stock(SNX),SNX
 Stock|Technology|Retail: Computer Software & Peripheral Equipment|Wayside Technology Group Inc. Common Stock(WSTG),WSTG
 Stock|Technology|Retail: Computer Software & Peripheral Equipment|ePlus inc. Common Stock(PLUS),PLUS
-Stock|Technology|Semiconductors|,NA
+Stock|Technology|Semiconductors,NA
 Stock|Technology|Semiconductors|ACE Convergence Acquisition Corp. Class A Ordinary Shares(ACEV),ACEV
 Stock|Technology|Semiconductors|ACE Convergence Acquisition Corp. Unit(ACEVU),ACEVU
 Stock|Technology|Semiconductors|ACE Convergence Acquisition Corp. Warrant(ACEVW),ACEVW
@@ -6059,15 +6059,15 @@ Stock|Technology|Semiconductors|Xperi Holding Corporation Common Stock(XPER),XPE
 Stock|Technology|Semiconductors|eMagin Corporation Common Stock(EMAN),EMAN
 Stock|Technology|Semiconductors|iSun Inc. Common Stock(ISUN),ISUN
 Stock|Technology|Semiconductors|nLIGHT Inc. Common Stock(LASR),LASR
-Stock|Technology|Telecommunications Equipment|,NA
+Stock|Technology|Telecommunications Equipment,NA
 Stock|Technology|Telecommunications Equipment|j2 Global Inc. Common Stock(JCOM),JCOM
 Stock|Transportation,NA
-Stock|Transportation|Aerospace|,NA
+Stock|Transportation|Aerospace,NA
 Stock|Transportation|Aerospace|Corporacion America Airports SA Common Shares(CAAP),CAAP
 Stock|Transportation|Aerospace|Grupo Aeroportuario Del Pacifico S.A. B. de C.V. Grupo Aeroportuario Del Pacifico S.A. de C.V. (each representing 10 Series B shares)(PAC),PAC
 Stock|Transportation|Aerospace|Grupo Aeroportuario del Centro Norte S.A.B. de C.V. ADS(OMAB),OMAB
 Stock|Transportation|Aerospace|Grupo Aeroportuario del Sureste S.A. de C.V. Common Stock(ASR),ASR
-Stock|Transportation|Air Freight/Delivery Services|,NA
+Stock|Transportation|Air Freight/Delivery Services,NA
 Stock|Transportation|Air Freight/Delivery Services|Air T Inc. Air T Funding Alpha Income Trust Preferred Securities(AIRTP),AIRTP
 Stock|Transportation|Air Freight/Delivery Services|Air T Inc. Air T Funding Warrants to Purchase Alpha Income Trust Preferred Expiring 08/30/2021(AIRTW),AIRTW
 Stock|Transportation|Air Freight/Delivery Services|Air T Inc. Common Stock(AIRT),AIRT
@@ -6091,7 +6091,7 @@ Stock|Transportation|Air Freight/Delivery Services|SkyWest Inc. Common Stock(SKY
 Stock|Transportation|Air Freight/Delivery Services|Southwest Airlines Company Common Stock(LUV),LUV
 Stock|Transportation|Air Freight/Delivery Services|Spirit Airlines Inc. Common Stock(SAVE),SAVE
 Stock|Transportation|Air Freight/Delivery Services|United Airlines Holdings Inc. Common Stock(UAL),UAL
-Stock|Transportation|Marine Transportation|,NA
+Stock|Transportation|Marine Transportation,NA
 Stock|Transportation|Marine Transportation|Ardmore Shipping Corporation Common Stock(ASC),ASC
 Stock|Transportation|Marine Transportation|Atlas Corp. Common Shares(ATCO),ATCO
 Stock|Transportation|Marine Transportation|Capital Product Partners L.P. Common Units(CPLP),CPLP
@@ -6139,7 +6139,7 @@ Stock|Transportation|Marine Transportation|TORM plc Class A Common Stock(TRMD),T
 Stock|Transportation|Marine Transportation|Teekay Corporation Common Stock(TK),TK
 Stock|Transportation|Marine Transportation|Tsakos Energy Navigation Ltd Common Shares(TNP),TNP
 Stock|Transportation|Marine Transportation|ZIM Integrated Shipping Services Ltd. Ordinary Shares(ZIM),ZIM
-Stock|Transportation|Oil Refining/Marketing|,NA
+Stock|Transportation|Oil Refining/Marketing,NA
 Stock|Transportation|Oil Refining/Marketing|Brinks Company (The) Common Stock(BCO),BCO
 Stock|Transportation|Oil Refining/Marketing|C.H. Robinson Worldwide Inc. Common Stock(CHRW),CHRW
 Stock|Transportation|Oil Refining/Marketing|Echo Global Logistics Inc. Common Stock(ECHO),ECHO
@@ -6148,7 +6148,7 @@ Stock|Transportation|Oil Refining/Marketing|Forward Air Corporation Common Stock
 Stock|Transportation|Oil Refining/Marketing|Hub Group Inc. Class A Common Stock(HUBG),HUBG
 Stock|Transportation|Oil Refining/Marketing|Radiant Logistics Inc. Common Stock(RLGT),RLGT
 Stock|Transportation|Oil Refining/Marketing|Sino-Global Shipping America Ltd. Common Stock(SINO),SINO
-Stock|Transportation|Railroads|,NA
+Stock|Transportation|Railroads,NA
 Stock|Transportation|Railroads|CSX Corporation Common Stock(CSX),CSX
 Stock|Transportation|Railroads|Canadian National Railway Company Common Stock(CNI),CNI
 Stock|Transportation|Railroads|Canadian Pacific Railway Limited Common Stock(CP),CP
@@ -6157,10 +6157,10 @@ Stock|Transportation|Railroads|Kansas City Southern Preferred Stock(KSU^),KSU^
 Stock|Transportation|Railroads|Norfolk Southern Corporation Common Stock(NSC),NSC
 Stock|Transportation|Railroads|USD Partners LP Common Units representing limited partner interest(USDP),USDP
 Stock|Transportation|Railroads|Union Pacific Corporation Common Stock(UNP),UNP
-Stock|Transportation|Transportation Services|,NA
+Stock|Transportation|Transportation Services,NA
 Stock|Transportation|Transportation Services|Atlas Air Worldwide Holdings NEW Common Stock(AAWW),AAWW
 Stock|Transportation|Transportation Services|Bristow Group Inc. Common Stock(VTOL),VTOL
-Stock|Transportation|Trucking Freight/Courier Services|,NA
+Stock|Transportation|Trucking Freight/Courier Services,NA
 Stock|Transportation|Trucking Freight/Courier Services|ArcBest Corporation Common Stock(ARCB),ARCB
 Stock|Transportation|Trucking Freight/Courier Services|BEST Inc. American Depositary Shares each representing one Class A Ordinary Share(BEST),BEST
 Stock|Transportation|Trucking Freight/Courier Services|Covenant Logistics Group Inc. Class A Common Stock(CVLG),CVLG
@@ -6182,7 +6182,7 @@ Stock|Transportation|Trucking Freight/Courier Services|Werner Enterprises Inc. C
 Stock|Transportation|Trucking Freight/Courier Services|Yellow Corporation Common Stock(YELL),YELL
 Stock|Transportation|Trucking Freight/Courier Services|ZTO Express (Cayman) Inc. American Depositary Shares each representing one Class A ordinary share.(ZTO),ZTO
 Stock|nan,NA
-Stock|nan|nan|,NA
+Stock|nan|nan,NA
 Stock|nan|nan|2ndVote Life Neutral Plus ETF(LYFE),LYFE
 Stock|nan|nan|2ndVote Society Defended ETF(EGIS),EGIS
 Stock|nan|nan|ABG Acquisition Corp. I Class A Ordinary Shares(ABGI),ABGI
